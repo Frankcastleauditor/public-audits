@@ -38,9 +38,13 @@ tangible |CAVIAR ($CVR) is a self-sustaining liquid-wrapper for locked tokens ve
  
 # Key Audits & Achievements
 
-Audited a range of projects from DeFi stablecoins to innovative Web3 marketplaces, achieving notable rankings in competitive audits.
-Demonstrated excellence in Rust audits, notably securing a 2nd place in the HydraDX Omnipool audit, with a reward of $21,555.12 USDC.
-Accumulated over $23,657 USDC in rewards from public contests, underlining significant findings across various audits including high, medium, and low vulnerabilities.
+ I have achieved 14th place on the 90-day and 56th on the 365-day leaderboard 🦀🥰⚔️. 
+
+- Audited a range of projects from DeFi stablecoins to innovative Web3 marketplaces, achieving notable rankings in competitive audits.
+- Demonstrated excellence in Rust audits, notably securing a 2nd place in the HydraDX Omnipool audit, with a reward of $21,555.12 USDC.
+- Accumulated over $23,657 USDC in rewards from public contests, underlining significant findings across various audits including high, medium, and low vulnerabilities.
+
+
 This portfolio encapsulates my journey and impact within the smart contract security domain, showcasing my commitment to advancing the safety and reliability of blockchain technology.
 ## my findings : 
 - 10 highs
