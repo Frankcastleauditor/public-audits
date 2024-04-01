@@ -1,7 +1,7 @@
 # Audit portfolio - Castle_chain 
 - [About Frank Castle](#about-frank-castle)
 - [Competitive Audits](#competitive-audits)
-- [Monthly Achievements](#monthly-achievements) 
+- [Key Audits and Achievements](#key-audits--achievements) 
 
 # About Frank Castle 
 I am castle_chain , I am a smart contract security researcher and specialized in decentralized exchanges (DEXES) and the automatied market makers (AMMs).
@@ -32,11 +32,19 @@ tangible |CAVIAR ($CVR) is a self-sustaining liquid-wrapper for locked tokens ve
 
 | Contest                      | Description                                                                                                                                                 |              Ranking      |  Rewards               | Report                                                                                                                                                          |
  ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|HydraDX |HydraDX Omnipool - An Ocean of Liquidity for Polkadot Trade an abundance of assets in a single pool. The HydraDX Omnipool is efficient, sustainable and trustless. |2nd place🥈 [leaderboard](https://code4rena.com/audits/2024-02-hydradx#top:~:text=8-,2,%2421%2C555.12,-1) | $21555.12 USDC | SOON |
+|HydraDX |HydraDX Omnipool - An Ocean of Liquidity for Polkadot Trade an abundance of assets in a single pool. The HydraDX Omnipool is efficient, sustainable and trustless. |2nd place🥈 [leaderboard](https://code4rena.com/audits/2024-02-hydradx#top:~:text=8-,2,%2421%2C555.12,-1) | $21,555.12 USDC | SOON |
+
+
  
-# Monthly Achievements
+# Key Audits & Achievements
+
+Audited a range of projects from DeFi stablecoins to innovative Web3 marketplaces, achieving notable rankings in competitive audits.
+Demonstrated excellence in Rust audits, notably securing a 2nd place in the HydraDX Omnipool audit, with a reward of $21,555.12 USDC.
+Accumulated over $23,657 USDC in rewards from public contests, underlining significant findings across various audits including high, medium, and low vulnerabilities.
+This portfolio encapsulates my journey and impact within the smart contract security domain, showcasing my commitment to advancing the safety and reliability of blockchain technology.
+## my findings : 
 - 10 highs
 - 12 mediums
 - 11 lows
 ### rewards 
-- $23657 usdc from public contests.
+- $23,657 usdc from public contests.
