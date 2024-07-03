@@ -5,7 +5,9 @@
 
 # About Frank Castle 
 I am castle_chain , I am a smart contract security researcher and specialized in decentralized exchanges (DEXES) and the automatied market makers (AMMs).
-
+- Twitter: [@castle_chain](https://x.com/0xcastle_chain)
+- Discord: [@castle_chain](https://discordapp.com/users/1119172287330004992)
+ 
 🔍 I'm a dedicated smart contract security researcher, specializing in auditing Rust and Solidity-based contracts on Ethereum and Polkadot. Leveraging my expertise on platforms like Code4rena, I dive deep into the code to unearth vulnerabilities that could compromise the blockchain ecosystem 🦀
 
 🛠️ My work focuses on fortifying the security of smart contracts through meticulous audits, with a passion for enhancing the blockchain's integrity. Beyond identifying risks, I contribute to developing innovative solutions aimed at preempting security flaws.
@@ -13,6 +15,11 @@ I am castle_chain , I am a smart contract security researcher and specialized in
 you can see my past audits and my rank at my profile at my [C4 profile](https://code4rena.com/@castle_chain) , and my codeHawks [profile](https://www.codehawks.com/profile/clk48to2u004wla08041jl9ld) .
 
 For private audit or consulting requests please reach out to me via **Twitter** ([@0xfrank_auditor](https://twitter.com/0xfrank_auditor)) or **Discord** (castle_chain).
+## Highlights
+|Contest|Description|Findings|Rank|Reward|Report|
+|:------|:----------|:-------|:--:|:----:|:----:|
+|HydraDX |HydraDX Omnipool AMM - An Ocean of Liquidity for Polkadot Trade an abundance of assets in a single pool. The HydraDX Omnipool is efficient, sustainable and trustless. |[1H](https://code4rena.com/reports/2024-02-hydradx#high-risk-findings-1) , [2M 1M solo](https://github.com/code-423n4/2024-02-hydradx-findings/issues/22)|2nd place🥈 [leaderboard](https://code4rena.com/audits/2024-02-hydradx#top:~:text=8-,2,%2421%2C555.12,-1) | $21,555.12 USDC | [link](https://code4rena.com/reports/2024-02-hydradx) |
+|Centrifuge |Liquidity Pool and Bridge | [2M](https://code4rena.com/reports/2023-09-centrifuge) |11th |$ 1155 USDC|[link](https://code4rena.com/reports/2023-09-centrifuge)|
 
 # Competitive Audits
 ## Solidity audits 
@@ -38,7 +45,7 @@ tangible |CAVIAR ($CVR) is a self-sustaining liquid-wrapper for locked tokens ve
  
 # Key Audits & Achievements
 
- I have achieved 14th place on the 90-day and 56th on the 365-day leaderboard 🦀🥰⚔️. 
+ I have achieved 14th place on the 90-day and 56th on the 365-day leaderboard 🦀⚔️. 
 
 - Audited a range of projects from DeFi stablecoins to innovative Web3 marketplaces, achieving notable rankings in competitive audits.
 - Demonstrated excellence in Rust audits, notably securing a 2nd place in the HydraDX Omnipool audit, with a reward of $21,555.12 USDC.
@@ -46,9 +53,5 @@ tangible |CAVIAR ($CVR) is a self-sustaining liquid-wrapper for locked tokens ve
 
 
 This portfolio encapsulates my journey and impact within the smart contract security domain, showcasing my commitment to advancing the safety and reliability of blockchain technology.
-## my findings : 
-- 10 highs
-- 12 mediums
-- 11 lows
 ### rewards 
 - $23,657 usdc from public contests.
