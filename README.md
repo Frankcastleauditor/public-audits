@@ -8,7 +8,7 @@ I am castle_chain , I am a smart contract security researcher and specialized in
 - Twitter: [@castle_chain](https://x.com/0xcastle_chain)
 - Discord: [@castle_chain](https://discordapp.com/users/1119172287330004992)
  
-🔍 I'm a dedicated smart contract security researcher, specializing in auditing Rust and Solidity-based contracts on Ethereum and Polkadot. Leveraging my expertise on platforms like Code4rena, I dive deep into the code to unearth vulnerabilities that could compromise the blockchain ecosystem 🦀
+🔍 I'm a dedicated smart contract security researcher, specializing in auditing Rust and Solidity-based contracts on Ethereum , Polkadot , Fuel , and any other ecosystem . Leveraging my expertise on platforms like Code4rena, I dive deep into the code to unearth vulnerabilities that could compromise the blockchain ecosystem 🦀
 
 🛠️ My work focuses on fortifying the security of smart contracts through meticulous audits, with a passion for enhancing the blockchain's integrity. Beyond identifying risks, I contribute to developing innovative solutions aimed at preempting security flaws.
 
