@@ -7,6 +7,7 @@
 I am castle_chain , I am a smart contract security researcher and specialized in decentralized exchanges (DEXES) and the automatied market makers (AMMs).
 - Twitter: [@castle_chain](https://x.com/0xcastle_chain)
 - Discord: [@castle_chain](https://discordapp.com/users/1119172287330004992)
+- Telegram : [castle_chain](https://t.me/castle_chain)
  
 🔍 I'm a dedicated smart contract security researcher, specializing in auditing Rust and Solidity-based contracts on Ethereum , Polkadot , Fuel , and any other ecosystem . Leveraging my expertise on platforms like Code4rena, I dive deep into the code to unearth vulnerabilities that could compromise the blockchain ecosystem 🦀
 
