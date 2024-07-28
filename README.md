@@ -9,13 +9,13 @@ I am castle_chain , I am a smart contract security researcher and specialized in
 - Discord: [@castle_chain](https://discordapp.com/users/1119172287330004992)
 - Telegram : [castle_chain](https://t.me/castle_chain)
  
-🔍 I'm a dedicated smart contract security researcher, specializing in auditing Rust and Solidity-based contracts on Ethereum , Polkadot , Fuel , and any other ecosystem . Leveraging my expertise on platforms like Code4rena, I dive deep into the code to unearth vulnerabilities that could compromise the blockchain ecosystem 🦀
+🔍 I'm a dedicated smart contract security researcher, specializing in auditing Rust and Solidity-based contracts on Ethereum , Polkadot , Fuel , CosmWasm , and Solana . Leveraging my expertise on platforms like Code4rena 🦀 . 
 
 🛠️ My work focuses on fortifying the security of smart contracts through meticulous audits, with a passion for enhancing the blockchain's integrity. Beyond identifying risks, I contribute to developing innovative solutions aimed at preempting security flaws.
 
 you can see my past audits and my rank at my profile at my [C4 profile](https://code4rena.com/@castle_chain) , and my codeHawks [profile](https://www.codehawks.com/profile/clk48to2u004wla08041jl9ld) .
 
-For private audit or consulting requests please reach out to me via **Twitter** ([@0xfrank_auditor](https://twitter.com/0xfrank_auditor)) or **Discord** (castle_chain).
+For private audit or consulting requests please reach out to me via Telegram @[castle_chain](https://t.me/castle_chain) , **Twitter** ([@0xfrank_auditor](https://twitter.com/0xfrank_auditor)) or **Discord** (castle_chain).
 ## Highlights
 |Contest|Description|Findings|Rank|Reward|Report|
 |:------|:----------|:-------|:--:|:----:|:----:|
