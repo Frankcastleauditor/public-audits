@@ -16,6 +16,14 @@ I am castle_chain , I am a smart contract security researcher and specialized in
 you can see my past audits and my rank at my profile at my [C4 profile](https://code4rena.com/@castle_chain) , and my codeHawks [profile](https://www.codehawks.com/profile/clk48to2u004wla08041jl9ld) .
 
 For private audit or consulting requests please reach out to me via Telegram @[castle_chain](https://t.me/castle_chain) , **Twitter** ([@0xfrank_auditor](https://twitter.com/0xfrank_auditor)) or **Discord** (castle_chain).
+
+## Private Audits
+
+|Protocol|Scope|Description|Findings|Report|
+|:-------|:----|:----------|:-------|:----:|
+|[TAILWIND](https://www.tailwind.zone/)|[LaunchPad Bonding Curve](https://github.com/tailwind-zone/frankcastle-audit)|Bounding Curve|3 minors|[📄]()|
+
+
 ## Highlights
 |Contest|Description|Findings|Rank|Reward|Report|
 |:------|:----------|:-------|:--:|:----:|:----:|
