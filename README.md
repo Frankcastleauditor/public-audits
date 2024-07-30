@@ -21,7 +21,7 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 
 |Protocol|Scope|Description|Findings|Report|
 |:-------|:----|:----------|:-------|:----:|
-|[TAILWIND](https://www.tailwind.zone/)|[LaunchPad Bonding Curve](https://github.com/tailwind-zone/frankcastle-audit)|Bounding Curve|3 minors|[📄]()|
+|[TAILWIND](https://www.tailwind.zone/)|[LaunchPad Bonding Curve](https://github.com/tailwind-zone/frankcastle-audit)|Bounding Curve|3 minors|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/TailWind-zoneReport.pdf)|
 
 
 ## Highlights
