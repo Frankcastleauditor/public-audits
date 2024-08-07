@@ -4,7 +4,7 @@
 - [Key Audits and Achievements](#key-audits--achievements) 
 
 # About Frank Castle 
-I am castle_chain , I am a smart contract security researcher and specialized in decentralized exchanges (DEXES) and the automatied market makers (AMMs).
+I am Frank Castle , I am a smart contract security researcher and specialized in auditing Rust-based projects on different ecosystems such as Polkadot (substrate), Cosmos (Cosmwasm), and Solana  (anchor).
 - Twitter: [@castle_chain](https://x.com/0xcastle_chain)
 - Discord: [@castle_chain](https://discordapp.com/users/1119172287330004992)
 - Telegram : [castle_chain](https://t.me/castle_chain)
@@ -13,22 +13,23 @@ I am castle_chain , I am a smart contract security researcher and specialized in
 
 🛠️ My work focuses on fortifying the security of smart contracts through meticulous audits, with a passion for enhancing the blockchain's integrity. Beyond identifying risks, I contribute to developing innovative solutions aimed at preempting security flaws.
 
-you can see my past audits and my rank at my profile at my [C4 profile](https://code4rena.com/@castle_chain) , and my codeHawks [profile](https://www.codehawks.com/profile/clk48to2u004wla08041jl9ld) .
+you can see my past audits and my rank at my profile at my [C4 profile](https://code4rena.com/@castle_chain) .
 
 For private audit or consulting requests please reach out to me via Telegram @[castle_chain](https://t.me/castle_chain) , **Twitter** ([@0xfrank_auditor](https://twitter.com/0xfrank_auditor)) or **Discord** (castle_chain).
 
 ## Private Audits
 
-|Protocol|Scope|Description|Findings|Report|
-|:-------|:----|:----------|:-------|:----:|
-|[TAILWIND](https://www.tailwind.zone/)|[LaunchPad Bonding Curve](https://github.com/tailwind-zone/frankcastle-audit)|Bounding Curve|2 Majors ,1 minor, 2 info |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/TailWind-zoneReport.pdf)|
+|Protocol|Scope|Lang - ecosystem|Description|Findings|Report|
+|:-------|:----|:------|:----------|:-------|:----:|
+|[TAILWIND](https://www.tailwind.zone/)|[LaunchPad Bonding Curve](https://github.com/tailwind-zone/frankcastle-audit)|Rust 🦀 - CosmWasm|Bounding Curve|2 Majors ,1 minor, 2 info |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/TailWind-zoneReport.pdf)|
 
 
 ## Highlights
-|Contest|Description|Findings|Rank|Reward|Report|
+|Protocol|Description|Findings|Rank|Reward|Report|
 |:------|:----------|:-------|:--:|:----:|:----:|
 |HydraDX |HydraDX Omnipool AMM - An Ocean of Liquidity for Polkadot Trade an abundance of assets in a single pool. The HydraDX Omnipool is efficient, sustainable and trustless. |[1H](https://code4rena.com/reports/2024-02-hydradx#high-risk-findings-1) , [2M 1M solo](https://github.com/code-423n4/2024-02-hydradx-findings/issues/22)|2nd place🥈 [leaderboard](https://code4rena.com/audits/2024-02-hydradx#top:~:text=8-,2,%2421%2C555.12,-1) | $21,555.12 USDC | [link](https://code4rena.com/reports/2024-02-hydradx) |
 |Centrifuge |Liquidity Pool and Bridge | [2M](https://code4rena.com/reports/2023-09-centrifuge) |11th |$ 1155 USDC|[link](https://code4rena.com/reports/2023-09-centrifuge)|
+
 
 # Competitive Audits
 ## Solidity audits 
@@ -58,9 +59,9 @@ tangible |CAVIAR ($CVR) is a self-sustaining liquid-wrapper for locked tokens ve
 
 - Audited a range of projects from DeFi stablecoins to innovative Web3 marketplaces, achieving notable rankings in competitive audits.
 - Demonstrated excellence in Rust audits, notably securing a 2nd place in the HydraDX Omnipool audit, with a reward of $21,555.12 USDC.
-- Accumulated over $23,657 USDC in rewards from public contests, underlining significant findings across various audits including high, medium, and low vulnerabilities.
+- Accumulated over $25,657 USDC in rewards from public contests, underlining significant findings across various audits including high, medium, and low vulnerabilities.
 
 
 This portfolio encapsulates my journey and impact within the smart contract security domain, showcasing my commitment to advancing the safety and reliability of blockchain technology.
 ### rewards 
-- $23,657 usdc from public contests.
+- $25,657 usdc from public contests.
