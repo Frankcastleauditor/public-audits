@@ -4,7 +4,7 @@
 - [Key Audits and Achievements](#key-audits--achievements) 
 
 # About Frank Castle 
-I am Frank Castle , I am a smart contract security researcher and specialized in auditing Rust-based projects on different ecosystems such as Polkadot (substrate), Cosmos (Cosmwasm), and Solana  (anchor).
+I am Frank Castle,  a smart contract security researcher who specializes in auditing Rust-based projects on different ecosystems such as Polkadot (substrate), Cosmos (Cosmwasm), and Solana (anchor).
 - Twitter: [@castle_chain](https://x.com/0xcastle_chain)
 - Discord: [@castle_chain](https://discordapp.com/users/1119172287330004992)
 - Telegram : [castle_chain](https://t.me/castle_chain)
