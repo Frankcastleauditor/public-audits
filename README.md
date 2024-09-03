@@ -22,6 +22,15 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 |Protocol|Scope|Lang - ecosystem|Description|Findings|Report|
 |:-------|:----|:------|:----------|:-------|:----:|
 |[TAILWIND](https://www.tailwind.zone/)|[LaunchPad Bonding Curve](https://github.com/tailwind-zone/frankcastle-audit)|Rust 🦀 - CosmWasm|Bounding Curve|2 Majors ,1 minor, 2 info |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/TailWind-zoneReport.pdf)|
+|[Pump.fun](https://x.com/pumpdotfun)|pump-AMM2 program|Rust🦀 - Solana|A constant product AMM program|1 High (Solo , Fixed), 4 Mediums |Report is Private|
+
+## Pashov audit Group Audits
+Pashov audit Group official website [here](https://www.pashov.net)
+
+|Protocol|Scope|Lang - ecosystem|Description|Findings|Report|
+|:-------|:----|:------|:----------|:-------|:----:|
+|[Pump.fun](https://x.com/pumpdotfun)|pump-AMM2 program|Rust🦀 - Solana|A constant product AMM program|1 High (Solo , Fixed), 4 Mediums |Report is Private|
+
 
 
 ## Highlights
