@@ -1,5 +1,6 @@
 # Audit portfolio - Castle_chain 
 - [About Frank Castle](#about-frank-castle)
+- [Private Audits with Pashov audit Group](#pashov-audit-group-audits)
 - [Competitive Audits](#competitive-audits)
 - [Key Audits and Achievements](#key-audits--achievements) 
 
@@ -9,9 +10,9 @@ I am Frank Castle,  a smart contract security researcher who specializes in audi
 - Discord: [@castle_chain](https://discordapp.com/users/1119172287330004992)
 - Telegram : [castle_chain](https://t.me/castle_chain)
  
-🔍 I'm a dedicated smart contract security researcher, specializing in auditing Rust and Solidity-based contracts on Ethereum , Polkadot , Fuel , CosmWasm , and Solana . Leveraging my expertise on platforms like Code4rena 🦀 . 
+I'm a dedicated smart contract security researcher, specializing in auditing Rust and Solidity-based contracts on Ethereum , Polkadot , Fuel , CosmWasm , and Solana . Leveraging my expertise with top-tier audit firms like [Pashov Audit group](https://www.pashov.net/) and platforms like [Code4rena](https://code4rena.com/@castle_chain) 🦀 . 
 
-🛠️ My work focuses on fortifying the security of smart contracts through meticulous audits, with a passion for enhancing the blockchain's integrity. Beyond identifying risks, I contribute to developing innovative solutions aimed at preempting security flaws.
+#### I have done +3 private audits with [Pashov Audit Group](https://www.pashov.net/) .
 
 you can see my past audits and my rank at my profile at my [C4 profile](https://code4rena.com/@castle_chain) .
 
@@ -30,7 +31,7 @@ Pashov audit Group official website [here](https://www.pashov.net)
 |Protocol|Scope|Lang - ecosystem|Description|Findings|Report|
 |:-------|:----|:------|:----------|:-------|:----:|
 |"Stealth"|"undisclosed"|Rust🦀 - Solana|A constant product AMM program|1 High, 4 Mediums ,1Low |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-fun-AMM_audit.pdf)|
-
+|"Stealth"|"Stealth"|Rust🦀 - Solana|omnichain fungible token|2 High, 2 Mediums ,6 Low |SOON|
 
 ## Highlights
 |Protocol|Description|Findings|Rank|Reward|Report|
@@ -65,6 +66,7 @@ tangible |CAVIAR ($CVR) is a self-sustaining liquid-wrapper for locked tokens ve
 
  I have achieved 14th place on the 90-day and 56th on the 365-day leaderboard 🦀⚔️. 
 
+I have done +3 private audits with [Pashov Audit Group](https://www.pashov.net/) .
 - Audited a range of projects from DeFi stablecoins to innovative Web3 marketplaces, achieving notable rankings in competitive audits.
 - Demonstrated excellence in Rust audits, notably securing a 2nd place in the HydraDX Omnipool audit, with a reward of $21,555.12 USDC.
 - Accumulated over $25,657 USDC in rewards from public contests, underlining significant findings across various audits including high, medium, and low vulnerabilities.
