@@ -26,7 +26,7 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 |"Stealth"|"undisclosed"|Rust🦀 - Solana|A constant product AMM program|1 High, 4 Mediums ,1Low |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-fun-AMM_audit.pdf)|
 
 ## Pashov audit Group Audits
-Pashov audit Group official website [here](https://www.pashov.net)
+[Pashov audit Group](https://www.pashov.net)
 
 |Protocol|Scope|Lang - ecosystem|Description|Findings|Report|
 |:-------|:----|:------|:----------|:-------|:----:|
