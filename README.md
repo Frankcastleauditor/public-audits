@@ -24,6 +24,8 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 |:-------|:----|:------|:----------|:-------|:----:|
 |[TAILWIND](https://www.tailwind.zone/)|[LaunchPad Bonding Curve](https://github.com/tailwind-zone/frankcastle-audit)|Rust 🦀 - CosmWasm|Bounding Curve|2 Majors ,1 minor, 2 info |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/TailWind-zoneReport.pdf)|
 |"Stealth"|"undisclosed"|Rust🦀 - Solana|A constant product AMM program|1 High, 4 Mediums ,1Low |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-fun-AMM_audit.pdf)|
+|"Stealth"|"Stealth"|Rust🦀 - Solana|omnichain fungible token|3 High, 4 Mediums ,14 Low |SOON|
+
 
 ## Pashov audit Group Audits
 [Pashov audit Group](https://www.pashov.net)
