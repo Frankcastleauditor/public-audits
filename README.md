@@ -1,6 +1,7 @@
 # Audit portfolio - Castle_chain 
 - [About Frank Castle](#about-frank-castle)
 - [Private Audits with Pashov audit Group](#pashov-audit-group-audits)
+- [Private Audits with Shieldify](#shieldify-audits)
 - [Competitive Audits](#competitive-audits)
 - [Key Audits and Achievements](#key-audits--achievements) 
 
@@ -25,7 +26,7 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 |[TAILWIND](https://www.tailwind.zone/)|[LaunchPad Bonding Curve](https://github.com/tailwind-zone/frankcastle-audit)|Rust 🦀 - CosmWasm|Bounding Curve|2 Majors ,1 minor, 2 info |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/TailWind-zoneReport.pdf)|
 |"Stealth"|"undisclosed"|Rust🦀 - Solana|A constant product AMM program|1 High, 4 Mediums ,1Low |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-fun-AMM_audit.pdf)|
 |"Stealth"|"Stealth"|Rust🦀 - Solana|omnichain fungible token|3 High, 4 Mediums ,14 Low |SOON|
-
+|LzApp ONFT | Omnichain Non-Fungible Token (ONFT) Program | Rust🦀 - Solana|  The project implements an Omnichain Non-Fungible Token (ONFT) on the Solana blockchain using LayerZero’s cross-chain messaging protocol| 1 Critical , 1 High , 3 Mediums , 3 Lows|SOON|
 
 ## Pashov audit Group Audits
 [Pashov audit Group](https://www.pashov.net)
@@ -40,8 +41,11 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 |:------|:----------|:-------|:--:|:----:|:----:|
 |HydraDX |HydraDX Omnipool AMM - An Ocean of Liquidity for Polkadot Trade an abundance of assets in a single pool. The HydraDX Omnipool is efficient, sustainable and trustless. |[1H](https://code4rena.com/reports/2024-02-hydradx#high-risk-findings-1) , [2M 1M solo](https://github.com/code-423n4/2024-02-hydradx-findings/issues/22)|2nd place🥈 [leaderboard](https://code4rena.com/audits/2024-02-hydradx#top:~:text=8-,2,%2421%2C555.12,-1) | $21,555.12 USDC | [link](https://code4rena.com/reports/2024-02-hydradx) |
 |Centrifuge |Liquidity Pool and Bridge | [2M](https://code4rena.com/reports/2023-09-centrifuge) |11th |$ 1155 USDC|[link](https://code4rena.com/reports/2023-09-centrifuge)|
-
-
+## Shieldify Audits
+[Shieldify Audit](https://www.shieldify.org/)
+|Protocol|Scope|Lang - ecosystem|Description|Findings|Report|
+|:-------|:----|:------|:----------|:-------|:----:|
+|LzApp ONFT | Omnichain Non-Fungible Token (ONFT) Program | Rust🦀 - Solana|  The project implements an Omnichain Non-Fungible Token (ONFT) on the Solana blockchain using LayerZero’s cross-chain messaging protocol| 1 Critical , 1 High , 3 Mediums , 3 Lows|SOON|
 # Competitive Audits
 ## Solidity audits 
 | Contest                      | Description                                                                                                                                                 | Platform                   | Ranking                | Report                                                                                                                                                          |
