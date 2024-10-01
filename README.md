@@ -11,7 +11,7 @@ I am Frank Castle,  a smart contract security researcher who specializes in audi
 - Discord: [@castle_chain](https://discordapp.com/users/1119172287330004992)
 - Telegram : [castle_chain](https://t.me/castle_chain)
  
-I'm a dedicated smart contract security researcher, specializing in auditing Rust and Solidity-based contracts on Ethereum , Polkadot , Fuel , CosmWasm , and Solana . Leveraging my expertise with top-tier audit firms like [Pashov Audit group](https://www.pashov.net/) and platforms like [Code4rena](https://code4rena.com/@castle_chain) 🦀 . 
+I'm a dedicated smart contract security researcher, specializing in auditing Rust-based contracts and infrastructure on Solana, Polkadot , Fuel , CosmWasm . Leveraging my expertise with top-tier audit firms like [Pashov Audit group](https://www.pashov.net/) and platforms like [Code4rena](https://code4rena.com/@castle_chain) 🦀 . 
 
 #### I have done +5 private audits with [Pashov Audit Group](https://www.pashov.net/) , and +10 private audits overall.
 
