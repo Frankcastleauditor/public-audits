@@ -40,13 +40,21 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 |Protocol|Description|Findings|Rank|Reward|Report|
 |:------|:----------|:-------|:--:|:----:|:----:|
 |HydraDX |HydraDX Omnipool AMM - An Ocean of Liquidity for Polkadot Trade an abundance of assets in a single pool. The HydraDX Omnipool is efficient, sustainable and trustless. |[1H](https://code4rena.com/reports/2024-02-hydradx#high-risk-findings-1) , [2M 1M solo](https://github.com/code-423n4/2024-02-hydradx-findings/issues/22)|2nd place🥈 [leaderboard](https://code4rena.com/audits/2024-02-hydradx#top:~:text=8-,2,%2421%2C555.12,-1) | $21,555.12 USDC | [link](https://code4rena.com/reports/2024-02-hydradx) |
-|Centrifuge |Liquidity Pool and Bridge | [2M](https://code4rena.com/reports/2023-09-centrifuge) |11th |$ 1155 USDC|[link](https://code4rena.com/reports/2023-09-centrifuge)|
+|Centrifuge on Cantina | Centrifuge is the infrastructure that facilitates the decentralized financing of real-world assets natively on-chain | 1 High , 4 Mediums |4th place [Leaderboard](https://cantina.xyz/competitions/a0a58a8b-247e-4203-b3cb-476ded9d5515/leaderboard)| $ 5300 USDC | [📄](https://cantina.xyz/competitions/a0a58a8b-247e-4203-b3cb-476ded9d5515/leaderboard)|
+|Centrifuge on C4 |Liquidity Pool and Bridge | [2M](https://code4rena.com/reports/2023-09-centrifuge) |11th |$ 1155 USDC|[link](https://code4rena.com/reports/2023-09-centrifuge)|
+
 ## Shieldify Audits
 [Shieldify Audit](https://www.shieldify.org/)
 |Protocol|Scope|Lang - ecosystem|Description|Findings|Report|
 |:-------|:----|:------|:----------|:-------|:----:|
 |LzApp ONFT | Omnichain Non-Fungible Token (ONFT) Program | Rust🦀 - Solana|  The project implements an Omnichain Non-Fungible Token (ONFT) on the Solana blockchain using LayerZero’s cross-chain messaging protocol| 1 Critical , 1 High , 3 Mediums , 3 Lows|SOON|
 # Competitive Audits
+## Rust audits 🦀
+
+| Contest                      | Description                                                                                                                                                 |              Ranking      |  Rewards               | Report                                                                                                                                                          |
+ ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|HydraDX |HydraDX Omnipool - An Ocean of Liquidity for Polkadot Trade an abundance of assets in a single pool. The HydraDX Omnipool is efficient, sustainable and trustless. |2nd place🥈 [leaderboard](https://code4rena.com/audits/2024-02-hydradx#top:~:text=8-,2,%2421%2C555.12,-1) | $21,555.12 USDC | [link](https://code4rena.com/reports/2024-02-hydradx) |
+|Centrifuge | Centrifuge is the infrastructure that facilitates the decentralized financing of real-world assets natively on-chain | 4th place | $ 5300 USDC | [📄](https://cantina.xyz/competitions/a0a58a8b-247e-4203-b3cb-476ded9d5515/leaderboard)
 ## Solidity audits 
 | Contest| Description| Platform | Ranking| Report|
 |:------|:----------|:-------|:--:|:----:|
@@ -57,11 +65,7 @@ tangible |CAVIAR ($CVR) is a self-sustaining liquid-wrapper for locked tokens ve
 |Centrifuge |The institutional ecosystem for on-chain credit.| code4rena |11th with $1154 USDC in reward [the leaderborad](https://code4rena.com/audits/2023-09-centrifuge#top:~:text=11,%241%2C154.53)|[link](https://code4rena.com/reports/2023-09-centrifuge)|
 |ethena Labs |The goal of Ethena is to offer a permissionless stablecoin, USDe, to defi users and to offer users yield for being in our ecosystem.| code4rena|43th|[link](https://code4rena.com/reports/2023-10-ethena)|
 
-## public Rust audits 
 
-| Contest                      | Description                                                                                                                                                 |              Ranking      |  Rewards               | Report                                                                                                                                                          |
- ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|HydraDX |HydraDX Omnipool - An Ocean of Liquidity for Polkadot Trade an abundance of assets in a single pool. The HydraDX Omnipool is efficient, sustainable and trustless. |2nd place🥈 [leaderboard](https://code4rena.com/audits/2024-02-hydradx#top:~:text=8-,2,%2421%2C555.12,-1) | $21,555.12 USDC | [link](https://code4rena.com/reports/2024-02-hydradx) |
 
 
  
@@ -72,7 +76,7 @@ tangible |CAVIAR ($CVR) is a self-sustaining liquid-wrapper for locked tokens ve
 I have done +3 private audits with [Pashov Audit Group](https://www.pashov.net/) .
 - Audited a range of projects from DeFi stablecoins to innovative Web3 marketplaces, achieving notable rankings in competitive audits.
 - Demonstrated excellence in Rust audits, notably securing a 2nd place in the HydraDX Omnipool audit, with a reward of $21,555.12 USDC.
-- Accumulated over $25,657 USDC in rewards from public contests, underlining significant findings across various audits including high, medium, and low vulnerabilities.
+- Accumulated over $30,657 USDC in rewards from public contests, underlining significant findings across various audits including high, medium, and low vulnerabilities.
 
 
 This portfolio encapsulates my journey and impact within the smart contract security domain, showcasing my commitment to advancing the safety and reliability of blockchain technology.
