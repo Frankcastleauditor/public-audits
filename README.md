@@ -82,4 +82,4 @@ I have done +3 private audits with [Pashov Audit Group](https://www.pashov.net/)
 
 This portfolio encapsulates my journey and impact within the smart contract security domain, showcasing my commitment to advancing the safety and reliability of blockchain technology.
 ### rewards 
-- $25,657 usdc from public contests.
+- $30,657 usdc from public contests.
