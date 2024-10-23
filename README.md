@@ -28,6 +28,10 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 |"Stealth"|"Stealth"|Rust🦀 - Solana|omnichain fungible token|3 High, 4 Mediums ,14 Low |SOON|
 |LzApp ONFT | Omnichain Non-Fungible Token (ONFT) Program | Rust🦀 - Solana|  The project implements an Omnichain Non-Fungible Token (ONFT) on the Solana blockchain using LayerZero’s cross-chain messaging protocol| 1 Critical , 1 High , 3 Mediums , 3 Lows|SOON|
 |DUB| Bonding Curve and merkle distributor|Rust🦀 - Solana | Bonding Curve and merkle distributor used to collect funds before migration to AMM  |3 Criticals , 4 Mediums , 13 LOW |SOON|
+|"usdisclosed"|"undisclosed"|Rust🦀 - Solana | Bonding Curve | 1 High , 3 mediums , 2 Lows | "undisclosed" |
+|Hydration| ERC20 currency , multicurrency precompile|Rust🦀 - Polkadot |2 High 3 Mediums , 4 Lows| SOON|
+|Adra-lrt| adra-lrt program| liquidity restaking token program| 1 High, 1 Medium , 3 Lows | |SOON| 
+
 ## Pashov audit Group Audits
 [Pashov audit Group](https://www.pashov.net)
 
@@ -36,6 +40,8 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 |"Stealth"|"undisclosed"|Rust🦀 - Solana|A constant product AMM program|1 High, 4 Mediums ,1Low |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-fun-AMM_audit.pdf)|
 |"Stealth"|"Stealth"|Rust🦀 - Solana|omnichain fungible token|3 High, 4 Mediums ,14 Low |SOON|
 |DUB| Bonding Curve and merkle distributor|Rust🦀 - Solana | Bonding Curve and merkle distributor used to collect funds before migration to AMM  |3 Criticals , 4 Mediums , 13 LOW |SOON|
+|"usdisclosed"|"undisclosed"|Rust🦀 - Solana | Bonding Curve | 1 High , 3 mediums , 2 Lows | "undisclosed" |
+|Hydration| ERC20 currency , multicurrency precompile|Rust🦀 - Polkadot |2 High 3 Mediums , 4 Lows|| SOON|
 
 ## Highlights
 |Protocol|Description|Findings|Rank|Reward|Report|
@@ -49,6 +55,7 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 |Protocol|Scope|Lang - ecosystem|Description|Findings|Report|
 |:-------|:----|:------|:----------|:-------|:----:|
 |LzApp ONFT | Omnichain Non-Fungible Token (ONFT) Program | Rust🦀 - Solana|  The project implements an Omnichain Non-Fungible Token (ONFT) on the Solana blockchain using LayerZero’s cross-chain messaging protocol| 1 Critical , 1 High , 3 Mediums , 3 Lows|SOON|
+|Adra-lrt| adra-lrt program| liquidity restaking token program| 1 High, 1 Medium , 3 Lows | |SOON| 
 # Competitive Audits
 ## Rust audits 🦀
 
