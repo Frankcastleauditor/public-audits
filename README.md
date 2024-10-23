@@ -21,16 +21,16 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 
 ## Private Audits
 
-|Protocol|Scope|Lang - ecosystem|Description|Findings|Report|
-|:-------|:----|:------|:----------|:-------|:----:|
-|[TAILWIND](https://www.tailwind.zone/)|[LaunchPad Bonding Curve](https://github.com/tailwind-zone/frankcastle-audit)|Rust 🦀 - CosmWasm|Bounding Curve|2 Majors ,1 minor, 2 info |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/TailWind-zoneReport.pdf)|
-|"Stealth"|"undisclosed"|Rust🦀 - Solana|A constant product AMM program|1 High, 4 Mediums ,1Low |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-fun-AMM_audit.pdf)|
-|"Stealth"|"Stealth"|Rust🦀 - Solana|omnichain fungible token|3 High, 4 Mediums ,14 Low |SOON|
-|LzApp ONFT | Omnichain Non-Fungible Token (ONFT) Program | Rust🦀 - Solana|  The project implements an Omnichain Non-Fungible Token (ONFT) on the Solana blockchain using LayerZero’s cross-chain messaging protocol| 1 Critical , 1 High , 3 Mediums , 3 Lows|SOON|
-|DUB| Bonding Curve and merkle distributor|Rust🦀 - Solana | Bonding Curve and merkle distributor used to collect funds before migration to AMM  |3 Criticals , 4 Mediums , 13 LOW |SOON|
-|"usdisclosed"|"undisclosed"|Rust🦀 - Solana | Bonding Curve | 1 High , 3 mediums , 2 Lows | "undisclosed" |
-|Hydration| ERC20 currency , multicurrency precompile|Rust🦀 - Polkadot |2 High 3 Mediums , 4 Lows| SOON|
-|Adra-lrt| adra-lrt program|Rust🦀 - Solana |liquidity restaking token program| 1 High, 1 Medium , 3 Lows |SOON| 
+|ID|Protocol|Scope|Lang - ecosystem|Description|Findings|Report|
+|:--|:-------|:----|:------|:----------|:-------|:----:|
+|1|[TAILWIND](https://www.tailwind.zone/)|[LaunchPad Bonding Curve](https://github.com/tailwind-zone/frankcastle-audit)|Rust 🦀 - CosmWasm|Bounding Curve|2 Majors ,1 minor, 2 info |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/TailWind-zoneReport.pdf)|
+|2|"Stealth"|"undisclosed"|Rust🦀 - Solana|A constant product AMM program|1 High, 4 Mediums ,1Low |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-fun-AMM_audit.pdf)|
+|3|"Stealth"|"Stealth"|Rust🦀 - Solana|omnichain fungible token|3 High, 4 Mediums ,14 Low |SOON|
+|4|LzApp ONFT | Omnichain Non-Fungible Token (ONFT) Program | Rust🦀 - Solana|  The project implements an Omnichain Non-Fungible Token (ONFT) on the Solana blockchain using LayerZero’s cross-chain messaging protocol| 1 Critical , 1 High , 3 Mediums , 3 Lows|SOON|
+|5|DUB| Bonding Curve and merkle distributor|Rust🦀 - Solana | Bonding Curve and merkle distributor used to collect funds before migration to AMM  |3 Criticals , 4 Mediums , 13 LOW |SOON|
+|6|"usdisclosed"|"undisclosed"|Rust🦀 - Solana | Bonding Curve | 1 High , 3 mediums , 2 Lows | "undisclosed" |
+|7|Hydration| ERC20 currency , multicurrency precompile|Rust🦀 - Polkadot |2 High 3 Mediums , 4 Lows| SOON|
+|8|Adra-lrt| adra-lrt program|Rust🦀 - Solana |liquidity restaking token program| 1 High, 1 Medium , 3 Lows |SOON| 
 
 ## Pashov audit Group Audits
 [Pashov audit Group](https://www.pashov.net)
