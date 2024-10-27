@@ -81,7 +81,7 @@ tangible |CAVIAR ($CVR) is a self-sustaining liquid-wrapper for locked tokens ve
 
  I have achieved 14th place on the 90-day and 56th on the 365-day leaderboard 🦀⚔️. 
 
-I have done +3 private audits with [Pashov Audit Group](https://www.pashov.net/) .
+I have done +5 private audits with [Pashov Audit Group](https://www.pashov.net/) .
 - Audited a range of projects from DeFi stablecoins to innovative Web3 marketplaces, achieving notable rankings in competitive audits.
 - Demonstrated excellence in Rust audits, notably securing a 2nd place in the HydraDX Omnipool audit, with a reward of $21,555.12 USDC.
 - Accumulated over $30,657 USDC in rewards from public contests, underlining significant findings across various audits including high, medium, and low vulnerabilities.
