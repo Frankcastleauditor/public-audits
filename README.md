@@ -30,7 +30,7 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 |5|DUB| Bonding Curve and merkle distributor|Rust🦀 - Solana | Bonding Curve and merkle distributor used to collect funds before migration to AMM  |3 Criticals , 4 Mediums , 13 LOW |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/DUB_Audit_frank_castle.pdf)|
 |6|"usdisclosed"|"undisclosed"|Rust🦀 - Solana | Bonding Curve |1 High , 1 mediums , 11 Lows | [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-security-review.pdf) |
 |7|Hydration| ERC20 currency , multicurrency precompile|Rust🦀 - Polkadot |ERC20 implementation|2 High 3 Mediums , 4 Lows| SOON|
-|8|Adra-lrt| adra-lrt program|Rust🦀 - Solana |liquidity restaking token program| 1 High, 1 Medium , 3 Lows |SOON| 
+|8|Adra-lrt| adra-lrt program|Rust🦀 - Solana |liquidity restaking token program| 1 High, 1 Medium , 3 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Adrastea-Security-Review.pdf)| 
 
 ## Pashov audit Group Audits
 [Pashov audit Group](https://www.pashov.net)
@@ -55,7 +55,7 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 |Protocol|Scope|Lang - ecosystem|Description|Findings|Report|
 |:-------|:----|:------|:----------|:-------|:----:|
 |LzApp ONFT | Omnichain Non-Fungible Token (ONFT) Program | Rust🦀 - Solana|  The project implements an Omnichain Non-Fungible Token (ONFT) on the Solana blockchain using LayerZero’s cross-chain messaging protocol| 1 Critical , 1 High , 3 Mediums , 3 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/LzAPP_ONFT_Security_Review.pdf)|
-|Adra-lrt| adra-lrt program|Rust🦀 - Solana |liquidity restaking token program| 1 High, 1 Medium , 3 Lows |SOON| 
+|Adra-lrt| adra-lrt program|Rust🦀 - Solana |liquidity restaking token program| 1 High, 1 Medium , 3 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Adrastea-Security-Review.pdf)| 
 # Competitive Audits
 ## Rust audits 🦀
 
