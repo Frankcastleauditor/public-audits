@@ -6,16 +6,16 @@
 - [Key Audits and Achievements](#key-audits--achievements) 
 
 # About Frank Castle 
-I am Frank Castle,  a smart contract security researcher who specializes in auditing Rust-based projects on different ecosystems such as Polkadot (substrate), Cosmos (Cosmwasm), and Solana (anchor).
+**Frank Castle** is a profissional smart contract security researcher with a focused expertise in auditing Rust-based contracts and decentralized infrastructure across leading blockchain ecosystems, including **Solana** , **Polkadot** , and **Cosmos (CosmWasm)**.🦀
 - Twitter: [@castle_chain](https://x.com/0xcastle_chain)
 - Discord: [@castle_chain](https://discordapp.com/users/1119172287330004992)
 - Telegram : [castle_chain](https://t.me/castle_chain)
- 
-I'm a dedicated smart contract security researcher, specializing in auditing Rust-based contracts and infrastructure on Solana, Polkadot , Fuel , CosmWasm . Leveraging my expertise with top-tier audit firms like [Pashov Audit group](https://www.pashov.net/) and platforms like [Code4rena](https://code4rena.com/@castle_chain) 🦀 . 
 
-#### I have done +5 private audits with [Pashov Audit Group](https://www.pashov.net/) , and +10 private audits overall.
+#### Frank Castle has successfully conducted +6 Solana private audits with [Pashov Audit group](https://www.pashov.net/), more than 3 Solana audits with Shieldify, and completed over 15 private audits, establishing a track record of rigor and excellence in smart contract security. His comprehensive experience and hands-on knowledge with Rust-based ecosystems underscore His commitment to advancing blockchain security and best practices.
 
-you can see my past audits and my rank at my profile at my [C4 profile](https://code4rena.com/@castle_chain) .
+
+
+you can see the past audits and the ranking here [C4 profile](https://code4rena.com/@castle_chain) .
 
 For private audit or consulting requests please reach out to me via Telegram @[castle_chain](https://t.me/castle_chain) , **Twitter** ([@0xfrank_auditor](https://twitter.com/0xfrank_auditor)) or **Discord** (castle_chain).
 
@@ -25,7 +25,7 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 |:--|:-------|:----|:------|:----------|:-------|:----:|
 |1|[TAILWIND](https://www.tailwind.zone/)|[LaunchPad Bonding Curve](https://github.com/tailwind-zone/frankcastle-audit)|Rust 🦀 - CosmWasm|Bounding Curve|2 Majors ,1 minor, 2 info |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/TailWind-zoneReport.pdf)|
 |2|"Stealth"|"undisclosed"|Rust🦀 - Solana|A constant product AMM program|1 High, 4 Mediums ,1Low |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-fun-AMM_audit.pdf)|
-|3|"Stealth"|"Stealth"|Rust🦀 - Solana|omnichain fungible token|3 High, 4 Mediums ,14 Low |SOON|
+|3|[LayerZero](https://layerzero.network/)|OFT program|Rust🦀 - Solana|omnichain fungible token|1 Medium , 11 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/LayerZero-security-review-September.pdf)|
 |4|LzApp ONFT | Omnichain Non-Fungible Token (ONFT) Program | Rust🦀 - Solana|  The project implements an Omnichain Non-Fungible Token (ONFT) on the Solana blockchain using LayerZero’s cross-chain messaging protocol| 1 Critical , 1 High , 3 Mediums , 3 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/LzAPP_ONFT_Security_Review.pdf)|
 |5|DUB| Bonding Curve and merkle distributor|Rust🦀 - Solana | Bonding Curve and merkle distributor used to collect funds before migration to AMM  |3 Criticals , 4 Mediums , 13 LOW |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/DUB_Audit_frank_castle.pdf)|
 |6|"usdisclosed"|"undisclosed"|Rust🦀 - Solana | Bonding Curve |1 High , 1 mediums , 11 Lows | [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-security-review.pdf) |
@@ -38,7 +38,7 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 |Protocol|Scope|Lang - ecosystem|Description|Findings|Report|
 |:-------|:----|:------|:----------|:-------|:----:|
 |"Stealth"|"undisclosed"|Rust🦀 - Solana|A constant product AMM program|1 High, 4 Mediums ,1Low |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-fun-AMM_audit.pdf)|
-|"Stealth"|"Stealth"|Rust🦀 - Solana|omnichain fungible token|3 High, 4 Mediums ,14 Low |SOON|
+|LayerZero|OFT program|Rust🦀 - Solana|omnichain fungible token|1 Medium , 11 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/LayerZero-security-review-September.pdf)|
 |DUB| Bonding Curve and merkle distributor|Rust🦀 - Solana | Bonding Curve and merkle distributor used to collect funds before migration to AMM  |3 Criticals , 4 Mediums , 13 LOW |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/DUB_Audit_frank_castle.pdf)|
 |"usdisclosed"|"undisclosed"|Rust🦀 - Solana | Bonding Curve | 1 High , 1 mediums , 11 Lows | [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-security-review.pdf) |
 |[Hydration](https://hydration.net)| ERC20 currency , multicurrency precompile|Rust🦀 - Polkadot |ERC20 implementation|2 High 3 Mediums , 4 Lows| SOON|
