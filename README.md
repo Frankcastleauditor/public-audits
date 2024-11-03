@@ -19,7 +19,7 @@ you can see the past audits and the ranking here [C4 profile](https://code4rena.
 
 For private audit or consulting requests please reach out to me via Telegram @[castle_chain](https://t.me/castle_chain) , **Twitter** ([@0xfrank_auditor](https://twitter.com/0xfrank_auditor)) or **Discord** (castle_chain).
 
-## Private Audits
+# Private Audits
 
 |ID|Protocol|Scope|Lang - ecosystem|Description|Findings|Report|
 |:--|:-------|:----|:------|:----------|:-------|:----:|
@@ -32,7 +32,7 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 |7|[Hydration](https://hydration.net)| ERC20 currency , multicurrency precompile|Rust🦀 - Polkadot |ERC20 implementation|1 High 3 Mediums , 5 Lows| [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Hydration-security-review-October.pdf)|
 |8|[Adra-lrt](https://adrastea.fi/)| adra-lrt program|Rust🦀 - Solana |liquidity restaking token program| 1 High, 1 Medium , 3 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Adrastea-Security-Review.pdf)| 
 
-## Pashov audit Group Audits
+# Pashov audit Group Audits
 [Pashov audit Group](https://www.pashov.net)
 
 |Protocol|Scope|Lang - ecosystem|Description|Findings|Report|
@@ -50,7 +50,7 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 |Centrifuge on Cantina | Centrifuge is the infrastructure that facilitates the decentralized financing of real-world assets natively on-chain | 1 High , 4 Mediums |4th place [Leaderboard](https://cantina.xyz/competitions/a0a58a8b-247e-4203-b3cb-476ded9d5515/leaderboard)| $ 5300 USDC | [📄](https://cantina.xyz/competitions/a0a58a8b-247e-4203-b3cb-476ded9d5515/leaderboard)|
 |Centrifuge on C4 |Liquidity Pool and Bridge | [2M](https://code4rena.com/reports/2023-09-centrifuge) |11th |$ 1155 USDC|[📄](https://code4rena.com/reports/2023-09-centrifuge)|
 
-## Shieldify Audits
+# Shieldify Audits
 [Shieldify Audit](https://www.shieldify.org/)
 |Protocol|Scope|Lang - ecosystem|Description|Findings|Report|
 |:-------|:----|:------|:----------|:-------|:----:|
@@ -73,7 +73,8 @@ tangible |CAVIAR ($CVR) is a self-sustaining liquid-wrapper for locked tokens ve
 |Centrifuge |The institutional ecosystem for on-chain credit.| code4rena |11th with $1154 USDC in reward [the leaderborad](https://code4rena.com/audits/2023-09-centrifuge#top:~:text=11,%241%2C154.53)|[link](https://code4rena.com/reports/2023-09-centrifuge)|
 |ethena Labs |The goal of Ethena is to offer a permissionless stablecoin, USDe, to defi users and to offer users yield for being in our ecosystem.| code4rena|43th|[📄](https://code4rena.com/reports/2023-10-ethena)|
 
-
+# Write-ups
+- [MintClose extension risk](https://x.com/0xcastle_chain/status/1850656223403593986)
 
 
  
