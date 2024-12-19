@@ -31,7 +31,7 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 |6|"usdisclosed"|"undisclosed"|Rust🦀 - Solana | Bonding Curve |1 High , 1 mediums , 11 Lows | [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-security-review.pdf) |
 |7|[Hydration](https://hydration.net)| ERC20 currency , multicurrency precompile|Rust🦀 - Polkadot |ERC20 implementation|1 High 3 Mediums , 5 Lows| [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Hydration-security-review-October.pdf)|
 |8|[Adra-lrt](https://adrastea.fi/)| adra-lrt program|Rust🦀 - Solana |liquidity restaking token program| 1 High, 1 Medium , 3 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Adrastea-Security-Review.pdf)| 
-
+|9|[Synthetix](https://synthetix.io)| Perptual and Core Market|Rust🦀 - Solana| 12k NSLOC over six weeks ; Synthetix is a decentralized finance (DeFi) protocol that serves as a liquidity layer for the creation of derivative markets. | SOON | SOON |
 # Pashov audit Group Audits
 [Pashov audit Group](https://www.pashov.net)
 
@@ -42,7 +42,7 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 |DUB| Bonding Curve and merkle distributor|Rust🦀 - Solana | Bonding Curve and merkle distributor used to collect funds before migration to AMM  |3 Criticals , 4 Mediums , 13 LOW |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/DUB_Audit_frank_castle.pdf)|
 |"usdisclosed"|"undisclosed"|Rust🦀 - Solana | Bonding Curve | 1 High , 1 mediums , 11 Lows | [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-security-review.pdf) |
 |[Hydration](https://hydration.net)| ERC20 currency , multicurrency precompile|Rust🦀 - Polkadot |ERC20 implementation|1 High 3 Mediums , 5 Lows| [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Hydration-security-review-October.pdf)|
-
+|[Synthetix](https://synthetix.io)| Perptual and Core Market|Rust🦀 - Solana| 12k NSLOC over six weeks ; Synthetix is a decentralized finance (DeFi) protocol that serves as a liquidity layer for the creation of derivative markets. | SOON | SOON |
 ## Highlights
 |Protocol|Description|Findings|Rank|Reward|Report|
 |:------|:----------|:-------|:--:|:----:|:----:|
