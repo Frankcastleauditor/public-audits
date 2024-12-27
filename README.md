@@ -8,7 +8,7 @@
 # About Frank Castle 
 **Frank Castle** is a profissional smart contract security researcher with a focused expertise in auditing Rust-based contracts and decentralized infrastructure across leading blockchain ecosystems, including **Solana** , **Polkadot** , and **Cosmos (CosmWasm)**.🦀
 
-I have audited [Lido](https://lido.fi/) ,[Pump.fun](pump.fun), [LayerZero](https://layerzero.network/), [Synthetix](https://synthetix.io/) , [Hydration](https://hydration.net/) , and several multi-million protocols.
+I have audited [Lido](https://lido.fi/) ,[Pump.fun](pump.fun), [LayerZero](https://layerzero.network/), [Synthetix](https://synthetix.io/) , [Hydration](https://hydration.net/) ,[DUB Social](https://x.com/dubdotsocial) and several multi-million protocols.
 - Twitter: [@castle_chain](https://x.com/0xcastle_chain)
 - Discord: [@castle_chain](https://discordapp.com/users/1119172287330004992)
 - Telegram : [castle_chain](https://t.me/castle_chain)
@@ -31,7 +31,7 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 |8|[Adra-lrt](https://adrastea.fi/)| adra-lrt program|Rust🦀 - Solana |Liquidity restaking token program| 1 High, 1 Medium, 3 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Adrastea-Security-Review.pdf)|  
 |7|[Hydration](https://hydration.net)| ERC20 currency, multicurrency precompile|Rust🦀 - Polkadot |ERC20 implementation|1 High, 3 Mediums, 5 Lows| [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Hydration-security-review-October.pdf)|  
 |6|[Pump.fun](pump.fun) |"undisclosed"|Rust🦀 - Solana | Bonding Curve |1 High, 1 Medium, 11 Lows | [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-security-review.pdf) |  
-|5|DUB| Bonding Curve and merkle distributor|Rust🦀 - Solana | Bonding Curve and merkle distributor used to collect funds before migration to AMM |3 Criticals, 4 Mediums, 13 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/DUB_Audit_frank_castle.pdf)|  
+|5|[DUB Social](https://x.com/dubdotsocial)| Bonding Curve and merkle distributor|Rust🦀 - Solana | Bonding Curve and merkle distributor used to collect funds before migration to AMM |3 Criticals, 4 Mediums, 13 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/DUB_Audit_frank_castle.pdf)|  
 |4|LzApp ONFT | Omnichain Non-Fungible Token (ONFT) Program | Rust🦀 - Solana| The project implements an Omnichain Non-Fungible Token (ONFT) on the Solana blockchain using LayerZero’s cross-chain messaging protocol| 1 Critical, 1 High, 3 Mediums, 3 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/LzAPP_ONFT_Security_Review.pdf)|  
 |3|[LayerZero](https://layerzero.network/)|OFT program|Rust🦀 - Solana|Omnichain fungible token|1 Medium, 11 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/LayerZero-security-review-September.pdf)|  
 |2|[Pump.fun](pump.fun)|"undisclosed"|Rust🦀 - Solana|A constant product AMM program|1 High, 4 Mediums, 1 Low |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-fun-AMM_audit.pdf)|  
@@ -43,7 +43,7 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 |:-------|:----|:------|:----------|:-------|:----:|
 |[Pump.fun](pump.fun)|"undisclosed"|Rust🦀 - Solana|A constant product AMM program|1 High, 4 Mediums ,1Low |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-fun-AMM_audit.pdf)|
 [LayerZero](https://layerzero.network/)|OFT program|Rust🦀 - Solana|omnichain fungible token|1 Medium , 11 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/LayerZero-security-review-September.pdf)|
-|DUB| Bonding Curve and merkle distributor|Rust🦀 - Solana | Bonding Curve and merkle distributor used to collect funds before migration to AMM  |3 Criticals , 4 Mediums , 13 LOW |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/DUB_Audit_frank_castle.pdf)|
+|[DUB Social](https://x.com/dubdotsocial)| Bonding Curve and merkle distributor|Rust🦀 - Solana | Bonding Curve and merkle distributor used to collect funds before migration to AMM  |3 Criticals , 4 Mediums , 13 LOW |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/DUB_Audit_frank_castle.pdf)|
 |[Pump.fun](pump.fun)|"undisclosed"|Rust🦀 - Solana | Bonding Curve | 1 High , 1 mediums , 11 Lows | [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-security-review.pdf) |
 |[Hydration](https://hydration.net)| ERC20 currency , multicurrency precompile|Rust🦀 - Polkadot |ERC20 implementation|1 High 3 Mediums , 5 Lows| [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Hydration-security-review-October.pdf)|
 |[Synthetix](https://synthetix.io)| Perptual and Core Market|Rust🦀 - Solana| 12k NSLOC over six weeks ; Synthetix is a decentralized finance (DeFi) protocol that serves as a liquidity layer for the creation of derivative markets. | SOON | SOON |
