@@ -26,6 +26,7 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 
 |ID|Protocol|Scope|Lang - ecosystem|Description|Findings|Report|  
 |:--|:-------|:----|:------|:----------|:-------|:----:|  
+|11| [bruv.fun]() |pump-token program |Rust🦀 - Solana |token bonding curve, allowing users to buy and sell tokens at dynamically adjusted prices.|SOON|SOON|
 |10| [Lido](https://lido.fi/)|  Accounting ZK Oracle built on SP1 "off-chain oracle program" | Rust🦀 | Implementation of the Negative rebase sanity-check oracle using Succinct SP1 | SOON|SOON|
 |9|[Synthetix](https://synthetix.io)| Perptual and Core Market|Rust🦀 - Solana| 12k NSLOC over six weeks; Synthetix is a decentralized finance (DeFi) protocol that serves as a liquidity layer for the creation of derivative markets. | SOON | SOON |  
 |8|[Adra-lrt](https://adrastea.fi/)| adra-lrt program|Rust🦀 - Solana |Liquidity restaking token program| 1 High, 1 Medium, 3 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Adrastea-Security-Review.pdf)|  
