@@ -23,17 +23,18 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 
 # Private Audits
 
-|ID|Protocol|Scope|Lang - ecosystem|Description|Findings|Report|
-|:--|:-------|:----|:------|:----------|:-------|:----:|
-|1|[TAILWIND](https://www.tailwind.zone/)|[LaunchPad Bonding Curve](https://github.com/tailwind-zone/frankcastle-audit)|Rust 🦀 - CosmWasm|Bounding Curve|2 Majors ,1 minor, 2 info |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/TailWind-zoneReport.pdf)|
-|2|"Stealth"|"undisclosed"|Rust🦀 - Solana|A constant product AMM program|1 High, 4 Mediums ,1Low |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-fun-AMM_audit.pdf)|
-|3|[LayerZero](https://layerzero.network/)|OFT program|Rust🦀 - Solana|omnichain fungible token|1 Medium , 11 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/LayerZero-security-review-September.pdf)|
-|4|LzApp ONFT | Omnichain Non-Fungible Token (ONFT) Program | Rust🦀 - Solana|  The project implements an Omnichain Non-Fungible Token (ONFT) on the Solana blockchain using LayerZero’s cross-chain messaging protocol| 1 Critical , 1 High , 3 Mediums , 3 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/LzAPP_ONFT_Security_Review.pdf)|
-|5|DUB| Bonding Curve and merkle distributor|Rust🦀 - Solana | Bonding Curve and merkle distributor used to collect funds before migration to AMM  |3 Criticals , 4 Mediums , 13 LOW |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/DUB_Audit_frank_castle.pdf)|
-|6|"usdisclosed"|"undisclosed"|Rust🦀 - Solana | Bonding Curve |1 High , 1 mediums , 11 Lows | [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-security-review.pdf) |
-|7|[Hydration](https://hydration.net)| ERC20 currency , multicurrency precompile|Rust🦀 - Polkadot |ERC20 implementation|1 High 3 Mediums , 5 Lows| [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Hydration-security-review-October.pdf)|
-|8|[Adra-lrt](https://adrastea.fi/)| adra-lrt program|Rust🦀 - Solana |liquidity restaking token program| 1 High, 1 Medium , 3 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Adrastea-Security-Review.pdf)| 
-|9|[Synthetix](https://synthetix.io)| Perptual and Core Market|Rust🦀 - Solana| 12k NSLOC over six weeks ; Synthetix is a decentralized finance (DeFi) protocol that serves as a liquidity layer for the creation of derivative markets. | SOON | SOON |
+
+|ID|Protocol|Scope|Lang - ecosystem|Description|Findings|Report|  
+|:--|:-------|:----|:------|:----------|:-------|:----:|  
+|9|[Synthetix](https://synthetix.io)| Perptual and Core Market|Rust🦀 - Solana| 12k NSLOC over six weeks; Synthetix is a decentralized finance (DeFi) protocol that serves as a liquidity layer for the creation of derivative markets. | SOON | SOON |  
+|8|[Adra-lrt](https://adrastea.fi/)| adra-lrt program|Rust🦀 - Solana |Liquidity restaking token program| 1 High, 1 Medium, 3 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Adrastea-Security-Review.pdf)|  
+|7|[Hydration](https://hydration.net)| ERC20 currency, multicurrency precompile|Rust🦀 - Polkadot |ERC20 implementation|1 High, 3 Mediums, 5 Lows| [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Hydration-security-review-October.pdf)|  
+|6|Pump.fun |"undisclosed"|Rust🦀 - Solana | Bonding Curve |1 High, 1 Medium, 11 Lows | [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-security-review.pdf) |  
+|5|DUB| Bonding Curve and merkle distributor|Rust🦀 - Solana | Bonding Curve and merkle distributor used to collect funds before migration to AMM |3 Criticals, 4 Mediums, 13 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/DUB_Audit_frank_castle.pdf)|  
+|4|LzApp ONFT | Omnichain Non-Fungible Token (ONFT) Program | Rust🦀 - Solana| The project implements an Omnichain Non-Fungible Token (ONFT) on the Solana blockchain using LayerZero’s cross-chain messaging protocol| 1 Critical, 1 High, 3 Mediums, 3 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/LzAPP_ONFT_Security_Review.pdf)|  
+|3|[LayerZero](https://layerzero.network/)|OFT program|Rust🦀 - Solana|Omnichain fungible token|1 Medium, 11 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/LayerZero-security-review-September.pdf)|  
+|2|pump.fun|"undisclosed"|Rust🦀 - Solana|A constant product AMM program|1 High, 4 Mediums, 1 Low |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/pump-fun-AMM_audit.pdf)|  
+|1|[TAILWIND](https://www.tailwind.zone/)|[LaunchPad Bonding Curve](https://github.com/tailwind-zone/frankcastle-audit)|Rust 🦀 - CosmWasm|Bounding Curve|2 Majors, 1 minor, 2 info |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/TailWind-zoneReport.pdf)|  
 # Pashov audit Group Audits
 [Pashov audit Group](https://www.pashov.net)
 
