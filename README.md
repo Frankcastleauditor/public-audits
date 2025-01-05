@@ -3,7 +3,6 @@
 - [Private Audits with Pashov audit Group](#pashov-audit-group-audits)
 - [Private Audits with Shieldify](#shieldify-audits)
 - [Competitive Audits](#competitive-audits)
-- [Key Audits and Achievements](#key-audits--achievements) 
 
 # About Frank Castle 
 **Frank Castle** is a profissional smart contract security researcher with a focused expertise in auditing Rust-based contracts and decentralized infrastructure across leading blockchain ecosystems, including **Solana** , **Polkadot** , and **Cosmos (CosmWasm)**.🦀
@@ -69,27 +68,8 @@ For private audit or consulting requests please reach out to me via Telegram @[c
  ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |HydraDX |HydraDX Omnipool - An Ocean of Liquidity for Polkadot Trade an abundance of assets in a single pool. The HydraDX Omnipool is efficient, sustainable and trustless. |2nd place🥈 [leaderboard](https://code4rena.com/audits/2024-02-hydradx#top:~:text=8-,2,%2421%2C555.12,-1) | $21,555.12 USDC | [link](https://code4rena.com/reports/2024-02-hydradx) |
 |Centrifuge | Centrifuge is the infrastructure that facilitates the decentralized financing of real-world assets natively on-chain | 4th place | $ 5300 USDC | [📄](https://cantina.xyz/competitions/a0a58a8b-247e-4203-b3cb-476ded9d5515/leaderboard)
-## Solidity audits 
-| Contest| Description| Platform | Ranking| Report|
-|:------|:----------|:-------|:--:|:----:|
-|sparkn | The SPARKN protocol is a Web3 project that aims to build a marketplace for anyone who wants to solve their problems or anyone who wants to help solve problems. As a first step, we have created the protocol | codeHawks | 34 | [📄](https://www.codehawks.com/report/cllcnja1h0001lc08z7w0orxx)|
-tangible |CAVIAR ($CVR) is a self-sustaining liquid-wrapper for locked tokens vePEARL, the governance token of the Pearl Exchange. The main advantage of CAVIAR lies in its streamlined access to outstanding vePEARL yields, paid to voters, and CAVIAR stakers, in the stablecoin $USDR. CAVIAR promises to be a substantial source of income for both the CAVIAR users as well as Tangible 3,3+ locked token holders, who will receive 20% of the vePEARL yield| code4rena | 40 | SOON | 
-|cooler update | A peer-to-peer lending protocol allowing a borrower and lender to engage in fixed-duration, fixed-interest lending. Cooler Loans are lightweight, trustless, independent of price-based liquidation. | sherlock | 6 🥈 | [📄](https://github.com/sherlock-audit/2023-08-cooler-judging/issues)|
-| Ondo finance | Institutional-Grade Finance. On-Chain. For Everyone. | code4rena |31th | [📄](https://code4rena.com/reports/2023-09-ondo) |
-|Centrifuge |The institutional ecosystem for on-chain credit.| code4rena |11th with $1154 USDC in reward [the leaderborad](https://code4rena.com/audits/2023-09-centrifuge#top:~:text=11,%241%2C154.53)|[link](https://code4rena.com/reports/2023-09-centrifuge)|
-|ethena Labs |The goal of Ethena is to offer a permissionless stablecoin, USDe, to defi users and to offer users yield for being in our ecosystem.| code4rena|43th|[📄](https://code4rena.com/reports/2023-10-ethena)|
+
 
 # Write-ups
 - [MintClose extension risk](https://x.com/0xcastle_chain/status/1850656223403593986)
-
-
- 
-# Key Audits & Achievements
-
- I have achieved 14th place on the 90-day and 56th on the 365-day leaderboard 🦀⚔️. 
-
-I have done +7 private audits with [Pashov Audit Group](https://www.pashov.net/) .
-- Audited a range of projects from DeFi stablecoins to innovative Web3 marketplaces, achieving notable rankings in competitive audits.
-- Demonstrated excellence in Rust audits, notably securing a 2nd place in the HydraDX Omnipool audit, with a reward of $21,555.12 USDC.
-- Accumulated over $50,657 USDC in rewards from public contests, underlining significant findings across various audits including high, medium, and low vulnerabilities.
 
