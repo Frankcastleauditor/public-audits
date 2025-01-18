@@ -23,8 +23,9 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 # Private Audits
 
 
-|ID|Protocol|Scope|Lang - ecosystem|Description|Findings|Report|  
-|:--|:-------|:----|:------|:----------|:-------|:----:|  
+|ID|Protocol  |Scope|Lang - ecosystem|Description|Findings|Report|  
+|:--|:--------|:----|:------|:----------|:-------|:----:|  
+|12| STIX Multichain OTC |Swap Program|Rust🦀 - Solana| an Escrow protocol for facilitating the OTC trading of memecoins on Solana |SOON|SOON|
 |11| [bruv.fun](https://x.com/bruvfun) |pump-token program |Rust🦀 - Solana |token bonding curve, allowing users to buy and sell tokens at dynamically adjusted prices.|4 Criticals , 3 Highs , 2 Mediums|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Bruv_Audit_Final.pdf)|
 |10| [Lido](https://lido.fi/)|  Accounting ZK Oracle built on SP1 "off-chain oracle program" | Rust🦀 | Implementation of the Negative rebase sanity-check oracle using Succinct SP1 | 1 High|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Lido_final_report.pdf)|
 |9|[Synthetix](https://synthetix.io)| Perptual and Core Market|Rust🦀 - Solana| 12k NSLOC over six weeks; Synthetix is a decentralized finance (DeFi) protocol that serves as a liquidity layer for the creation of derivative markets. | 1 High , 4 Mediums , 11 Lows | [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Synthetix-security-review_2024-11-05.pdf) |  
@@ -48,6 +49,8 @@ For private audit or consulting requests please reach out to me via Telegram @[c
 |[Hydration](https://hydration.net)| ERC20 currency , multicurrency precompile|Rust🦀 - Polkadot |ERC20 implementation|1 High 3 Mediums , 5 Lows| [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Hydration-security-review-October.pdf)|
 |[Synthetix](https://synthetix.io)| Perptual and Core Market|Rust🦀 - Solana| 12k NSLOC over six weeks ; Synthetix is a decentralized finance (DeFi) protocol that serves as a liquidity layer for the creation of derivative markets. | 1 High , 4 Mediums , 11 Lows | [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Synthetix-security-review_2024-11-05.pdf) |  
 | [Lido](https://lido.fi/)|  Accounting ZK Oracle built on SP1 "off-chain oracle program" | Rust🦀 | Implementation of the Negative rebase sanity-check oracle using Succinct SP1 | 1 High|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Lido_final_report.pdf)|
+|STIX Multichain OTC |Swap Program|Rust🦀 - Solana| an Escrow protocol for facilitating the OTC trading of memecoins on Solana |SOON|SOON|
+
 ## Highlights
 |Protocol|Description|Findings|Rank|Reward|Report|
 |:------|:----------|:-------|:--:|:----:|:----:|
