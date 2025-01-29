@@ -7,7 +7,7 @@
 # About Frank Castle 
 **Frank Castle** is a profissional smart contract security researcher with a focused expertise in auditing Rust-based contracts and decentralized infrastructure across leading blockchain ecosystems, including **Solana** , **Polkadot** , and **Cosmos (CosmWasm)**.🦀
 
-I have audited [Lido](https://lido.fi/) ,[Pump.fun](pump.fun), [LayerZero](https://layerzero.network/), [Synthetix](https://synthetix.io/) , [Hydration](https://hydration.net/) ,[DUB Social](https://x.com/dubdotsocial) and several multi-million protocols.
+I have audited [Lido](https://lido.fi/) , [GMX](https://gmx.io/) ,[Pump.fun](pump.fun) , [LayerZero](https://layerzero.network/), [Synthetix](https://synthetix.io/) , [Hydration](https://hydration.net/) ,[DUB Social](https://x.com/dubdotsocial) and several multi-million protocols.
 - Twitter: [@castle_chain](https://x.com/0xcastle_chain)
 - Discord: [@castle_chain](https://discordapp.com/users/1119172287330004992)
 - Telegram : [castle_chain](https://t.me/castle_chain)
