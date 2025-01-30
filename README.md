@@ -18,7 +18,7 @@ I have audited [Lido](https://lido.fi/) , [GMX](https://gmx.io/) ,[Pump.fun](pum
 
 you can see the past audits and the ranking here [C4 profile](https://code4rena.com/@castle_chain) .
 
-For private audit or consulting requests please reach out to me via Telegram @[castle_chain](https://t.me/castle_chain) , **Twitter** ([@0xfrank_auditor](https://twitter.com/0xfrank_auditor)) or **Discord** (castle_chain).
+For private audit or consulting requests please reach out to me via Telegram [castle_chain](https://t.me/castle_chain) , **Twitter** ([0xcastle_chain](https://x.com/0xcastle_chain)) or **Discord** (castle_chain).
 
 # Private Audits
 
