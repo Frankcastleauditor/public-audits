@@ -12,7 +12,7 @@ I have audited [Lido](https://lido.fi/) , [GMX](https://gmx.io/) ,[Pump.fun](pum
 - Discord: [@castle_chain](https://discordapp.com/users/1119172287330004992)
 - Telegram : [castle_chain](https://t.me/castle_chain)
 
-**Frank Castle** has successfully conducted **+7 Solana private audits** with [Pashov Audit group](https://www.pashov.net/), more than 3 Solana audits with Shieldify, and completed over **20 Rust private audits**, establishing a track record of rigor and excellence in smart contract security. His comprehensive experience and hands-on knowledge with Rust-based ecosystems underscore His commitment to advancing blockchain security and best practices.
+**Frank Castle** has successfully conducted over **30 Rust private audits**, establishing a track record of rigor and excellence in smart contract security. His comprehensive experience and hands-on knowledge with Rust-based ecosystems underscore His commitment to advancing blockchain security and best practices.
 
 
 
