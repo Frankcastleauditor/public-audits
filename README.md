@@ -26,7 +26,7 @@ For private audit or consulting requests please reach out to me via Telegram [ca
 |ID|Protocol  |Scope|Lang - ecosystem|Description|Findings|Report|  
 |:--|:--------|:----|:------|:----------|:-------|:----:|
 |14| [GMX]()| GMX Solana |Rust🦀 - Solana |   Perptual Market | Soon |Soon | 
-|13| [SomethingCool]()|[CoolDex]() , CoolPad|Rust🦀 - Solana|DEX , Bonding Curve|Soon|Soon|
+|13| [SomethingCool]()|[CoolDex]() , CoolPad|Rust🦀 - Solana|DEX , Bonding Curve|2 Mediums, 5 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/CoolDex_Audit_Final_Report%20.pdf)|
 |12| [STIX](https://www.stix.co/)  |Swap Program|Rust🦀 - Solana|Escrow protocol for facilitating the OTC trading on Solana |3 Critical,4 High,2 Mediums,11 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/StixSwapSolana-security-review_2025-01-07.pdf)|
 |11| [bruv.fun](https://x.com/bruvfun) |pump-token program |Rust🦀 - Solana |token bonding curve, allowing users to buy and sell tokens at dynamically adjusted prices.|4 Criticals , 3 Highs , 2 Mediums|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Bruv_Audit_Final.pdf)|
 |10| [Lido](https://lido.fi/)|  Accounting ZK Oracle built on SP1 "off-chain oracle program" | Rust🦀 | Implementation of the Negative rebase sanity-check oracle using Succinct SP1 | 1 High|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Lido_final_report.pdf)|
