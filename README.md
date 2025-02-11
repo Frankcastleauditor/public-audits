@@ -22,7 +22,8 @@ I have audited [Lido](https://lido.fi/) , [GMX](https://gmx.io/) ,[Pump.fun](pum
 
 |ID|Protocol  |Scope|Lang - ecosystem|Description|Findings|Report|  
 |:--|:--------|:----|:------|:----------|:-------|:----:|
-|15| [GMX]()| GMX Solana |Rust🦀 - Solana |   Perptual Market | Soon |Soon | 
+|16| [GMX]()| GMX Solana |Rust🦀 - Solana |   Perptual Market | Soon |Soon | 
+|15|Desci LaunchPad|Launchpad Program|Rust🦀 - Solana| LaunchPad| Soon|Soon|
 |14|[Pump.fun](pump.fun)|Pump Bonding Curve and Pump-Amm |Rust🦀 - Solana|DEX , Bonding Curve|Soon|Soon|
 |13| [SomethingCool]()|[CoolDex]() , CoolPad|Rust🦀 - Solana|DEX , Bonding Curve|2 Mediums, 5 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/CoolDex_Audit_Final_Report%20.pdf)|
 |12| [STIX](https://www.stix.co/)  |Swap Program|Rust🦀 - Solana|Escrow protocol for facilitating the OTC trading on Solana |3 Critical,4 High,2 Mediums,11 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/StixSwapSolana-security-review_2025-01-07.pdf)|
