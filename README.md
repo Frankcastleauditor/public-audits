@@ -5,14 +5,14 @@
 - [Competitive Audits](#competitive-audits)
 
 # About Frank Castle 
-**Frank Castle** is a professional smart contract security researcher with a focused expertise in auditing Rust-based contracts and decentralized infrastructure across leading blockchain ecosystems, including **Solana** , **Polkadot** , and **Cosmos (CosmWasm)**.🦀
+**Frank Castle** is a professional smart contract security researcher with focused expertise in auditing Rust-based contracts and decentralized infrastructure across leading blockchain ecosystems, including **Solana** , **Polkadot** , and **Cosmos (CosmWasm)**.🦀
 
 I have audited [Lido](https://lido.fi/) , [GMX](https://gmx.io/) ,[Pump.fun](pump.fun) , [LayerZero](https://layerzero.network/), [Synthetix](https://synthetix.io/) , [Hydration](https://hydration.net/) ,[DUB Social](https://x.com/dubdotsocial) and several multi-million protocols.
 - Twitter: [@castle_chain](https://x.com/0xcastle_chain)
 - Discord: [@castle_chain](https://discordapp.com/users/1119172287330004992)
 - Telegram : [castle_chain](https://t.me/castle_chain)
 
-**Frank Castle** has successfully conducted over **30 Rust private audits**, establishing a track record of rigor and excellence in smart contract security. His comprehensive experience and hands-on knowledge with Rust-based ecosystems underscore His commitment to advancing blockchain security and best practices.
+**Frank Castle** has successfully conducted over **30 Rust private audits**, establishing a track record of rigor and excellence in smart contract security , He is trusted by: **Pashov Audit Group , Shieldify ,Zenith ,and BailSec.** His comprehensive experience and hands-on knowledge of Rust-based ecosystems underscore His commitment to advancing blockchain security and best practices.
 
 
 ### For private audit or consulting requests please reach out to me via Telegram [castle_chain](https://t.me/castle_chain) , **X** ([0xcastle_chain](https://x.com/0xcastle_chain)) or **Discord** (castle_chain).
