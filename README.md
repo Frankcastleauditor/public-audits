@@ -24,7 +24,7 @@ I have audited [Lido](https://lido.fi/) , [GMX](https://gmx.io/) ,[Pump.fun](pum
 |:--|:--------|:----|:------|:----------|:-------|:----:|
 |16| [GMX]()| GMX Solana |Rust🦀 - Solana |   Perptual Market | Soon |Soon | 
 |15|Desci LaunchPad|Launchpad Program|Rust🦀 - Solana| LaunchPad| Soon|Soon|
-|14|[Pump.fun](pump.fun)|Pump Bonding Curve and Pump-Amm |Rust🦀 - Solana|DEX , Bonding Curve|Soon|Soon|
+|14|[Pump.fun](pump.fun)|Pump Bonding Curve and Pump-Amm |Rust🦀 - Solana|DEX , Bonding Curve|1 Medium ,1 Low|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Pump-security-review_2025-02-04.pdf)|
 |13| [SomethingCool]()|[CoolDex]() , CoolPad|Rust🦀 - Solana|DEX , Bonding Curve|2 Mediums, 5 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/CoolDex_Audit_Final_Report%20.pdf)|
 |12| [STIX](https://www.stix.co/)  |Swap Program|Rust🦀 - Solana|Escrow protocol for facilitating the OTC trading on Solana |3 Critical,4 High,2 Mediums,11 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/StixSwapSolana-security-review_2025-01-07.pdf)|
 |11| [bruv.fun](https://x.com/bruvfun) |pump-token program |Rust🦀 - Solana |token bonding curve, allowing users to buy and sell tokens at dynamically adjusted prices.|4 Criticals , 3 Highs , 2 Mediums|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Bruv_Audit_Final.pdf)|
