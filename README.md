@@ -1,9 +1,3 @@
-# Audit portfolio - Castle_chain 
-- [About Frank Castle](#about-frank-castle)
-- [Private Audits with Pashov audit Group](#pashov-audit-group-audits)
-- [Private Audits with Shieldify](#shieldify-audits)
-- [Competitive Audits](#competitive-audits)
-
 # About Frank Castle 
 **Frank Castle** is a professional smart contract security researcher with focused expertise in auditing Rust-based contracts and decentralized infrastructure across leading blockchain ecosystems, including **Solana** , **Polkadot** , and **Cosmos (CosmWasm)**.🦀
 
