@@ -16,6 +16,7 @@ I have audited [Lido](https://lido.fi/) , [GMX](https://gmx.io/) ,[Pump.fun](pum
 
 |ID|Protocol  |Scope|Lang - ecosystem|Description|Provider|Findings|Report|  
 |:--|:--------|:----|:------|:----------|:-------|:----:|:----:|
+|17| ORO |Staking and inti programs|Rust🦀 - Solana |Liquid staking and Gold trading|Spearbit |Soon |Soon|
 |16| [GMX]()| GMX Solana |Rust🦀 - Solana |   Perptual Market | Code4rena, Zenith|Soon |Soon | 
 |15|Desci LaunchPad|Launchpad Program|Rust🦀 - Solana| LaunchPad| Pashov Audit Group|Soon|Soon|
 |14|[Pump.fun](pump.fun)|Pump Bonding Curve and Pump-Amm |Rust🦀 - Solana|DEX , Bonding Curve|Pashov Audit Group|1 Medium ,1 Low|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Pump-security-review_2025-02-04.pdf)|
