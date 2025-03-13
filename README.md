@@ -18,7 +18,7 @@ I have audited [Lido](https://lido.fi/) , [GMX](https://gmx.io/) ,[Pump.fun](pum
 |:--|:--------|:------|:----------|:-------|:----:|:----:|
 |18 | Stealth |Rust🦀 - Solana|  Cross-chain Governance | Sherlock | Soon| Soon|
 |17| ORO |Rust🦀 - Solana |Liquid staking and Gold trading|Spearbit , Cantina |Soon |Soon|
-|16| [GMX]() |Rust🦀 - Solana |   Perptual Market | Code4rena, Zenith|9 Highs, 23 Mediums, 24 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/GMX%20Solana%20Protocol%20-%20Zenith%20Audit%20Report.pdf) | 
+|16| [GMX](https://gmxsol.io/) |Rust🦀 - Solana |   Perptual Market | Code4rena, Zenith|9 Highs, 23 Mediums, 24 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/GMX%20Solana%20Protocol%20-%20Zenith%20Audit%20Report.pdf) | 
 |15|Desci LaunchPad|Rust🦀 - Solana| LaunchPad| Pashov Audit Group|Soon|Soon|
 |14|[Pump.fun](pump.fun) |Rust🦀 - Solana|DEX , Bonding Curve|Pashov Audit Group|1 Medium ,1 Low|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Pump-security-review_2025-02-04.pdf)|
 |13| [SomethingCool]()|Rust🦀 - Solana|DEX , Bonding Curve|Solo |2 Mediums, 5 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/CoolDex_Audit_Final_Report%20.pdf)|
