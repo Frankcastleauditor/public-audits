@@ -16,6 +16,7 @@ I have audited [Lido](https://lido.fi/) , [GMX](https://gmx.io/) ,[Pump.fun](pum
 
 |ID|Protocol  |Lang - ecosystem|Description|Provider|Findings|Report|  
 |:--|:--------|:------|:----------|:-------|:----:|:----:|
+|21| BIO |Rust🦀 - Solana| Launchpad |Pashov Audit Group | 1 Medium , 2 Lows| [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Bio_final_report.pdf)| 
 |20|Pump |Rust🦀 - Solana||Pashov Audit Group|Soon|Soon|
 |19|Perena|Rust🦀 - Solana||Spearbit , Cantina|Soon|Soon|
 |18|Boop|Rust🦀 - Solana||Solo |Soon|Soon|
