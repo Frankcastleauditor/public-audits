@@ -18,7 +18,7 @@ I have audited [Lido](https://lido.fi/) , [GMX](https://gmx.io/) ,[Pump.fun](pum
 |:--|:--------|:------|:----------|:-------|:----:|:----:|
 |21| BIO |Rust🦀 - Solana| Launchpad |Pashov Audit Group | 1 Medium , 2 Lows| [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Bio_final_report.pdf)| 
 |20|Pump |Rust🦀 - Solana||Pashov Audit Group|Soon|Soon|
-|19|Perena|Rust🦀 - Solana||Spearbit , Cantina|Soon|Soon|
+|19|Perena|Rust🦀 - Solana|Stablecoin - staking program|Spearbit , Cantina|4 Criticals , 3 Highs, 4 Mediums , 3 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/report-cantinacode-perena-0313%20(3).pdf)|
 |18|Boop|Rust🦀 - Solana||Solo |Soon|Soon|
 |17| ORO |Rust🦀 - Solana |Liquid staking and Gold trading|Spearbit , Cantina |Soon |Soon|
 |16| [GMX](https://gmxsol.io/) |Rust🦀 - Solana |   Perptual Market | Code4rena, Zenith|9 Highs, 23 Mediums, 24 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/GMX%20Solana%20Protocol%20-%20Zenith%20Audit%20Report.pdf) | 
