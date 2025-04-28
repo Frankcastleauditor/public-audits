@@ -19,7 +19,7 @@ I have audited [Lido](https://lido.fi/) , [GMX](https://gmx.io/) ,[Pump.fun](pum
 |21| BIO |Rust🦀 - Solana| Launchpad |Pashov Audit Group | 1 Medium , 2 Lows| [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Bio_final_report.pdf)| 
 |20|Pump |Rust🦀 - Solana|Token Sales|Pashov Audit Group|Soon|Soon|
 |19|Perena|Rust🦀 - Solana|Stablecoin - staking program|Spearbit , Cantina|4 Criticals , 3 Highs, 4 Mediums , 3 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/report-cantinacode-perena-0313%20(3).pdf)|
-|18|Boop|Rust🦀 - Solana||Solo |Soon|Soon|
+|18|Boop|Rust🦀 - Solana|LaunchPad using Bonding curve and Staking program |Solo|1 High , 1 Medium , 7 Lows  |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Boop_Audit_Final_Report.pdf)|
 |17| ORO |Rust🦀 - Solana |Liquid staking and Gold trading|Spearbit , Cantina |11 Criticals , 1 High , 5 Mediums, 3 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/cantina_oro_february2025.pdf)|
 |16| [GMX](https://gmxsol.io/) |Rust🦀 - Solana |   Perptual Market | Code4rena, Zenith|9 Highs, 23 Mediums, 24 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/GMX%20Solana%20Protocol%20-%20Zenith%20Audit%20Report.pdf) | 
 |15|Desci LaunchPad|Rust🦀 - Solana| LaunchPad| Pashov Audit Group|1 critical, 2 highs, 1 medium , 8 lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/DesciLaunchpad-security-review_2025-02-07.pdf)|
