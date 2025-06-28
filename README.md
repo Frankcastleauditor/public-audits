@@ -16,6 +16,7 @@ I have audited  [Lido](https://lido.fi/) , [GMX](https://gmx.io/) , [Pump.fun](p
 
 |ID|Protocol  |Lang - ecosystem|Description|Provider|Findings|Report|  
 |:--|:--------|:------|:----------|:-------|:----:|:----:|
+|22|Reserve DTF|Rust🦀 - Solana|Vault indexing protocol||3 Highs, 3 Mediums, 5 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Reserve_SolanaDTF_Audit.pdf)|
 |21| BIO |Rust🦀 - Solana| Launchpad |Pashov Audit Group | 1 Medium , 2 Lows| [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Bio_final_report.pdf)| 
 |20|Pump |Rust🦀 - Solana|Token Sales|Pashov Audit Group|Soon|Soon|
 |19|Perena|Rust🦀 - Solana|Stablecoin - staking program|Spearbit , Cantina|4 Criticals , 3 Highs, 4 Mediums , 3 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Perena_Audit_Final_report.pdf)|
