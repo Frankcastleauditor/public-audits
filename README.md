@@ -16,6 +16,8 @@ I have audited  [Lido](https://lido.fi/) , [GMX](https://gmx.io/) , [Pump.fun](p
 
 |ID|Protocol  |Lang - ecosystem|Description|Provider|Findings|Report|  
 |:--|:--------|:------|:----------|:-------|:----:|:----:|
+|24|Dare Protocol| Rust🦀 - Solana| Bonding curve |Solo|Soon|Soon|
+|23|Polymer Labs|Rust🦀 - Solana and Solidity | Cross-chain L2 state prover | Spearbit , Cantina | 4 Highs , 2 Mediums, 6 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Cantina-Polymer-FrankCastle.pdf)| 
 |22|Reserve DTF|Rust🦀 - Solana|Vault indexing protocol||3 Highs, 3 Mediums, 5 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Reserve_SolanaDTF_Audit.pdf)|
 |21| BIO |Rust🦀 - Solana| Launchpad |Pashov Audit Group | 1 Medium , 2 Lows| [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Bio_final_report.pdf)| 
 |20|Pump |Rust🦀 - Solana|Token Sales|Pashov Audit Group|Soon|Soon|
