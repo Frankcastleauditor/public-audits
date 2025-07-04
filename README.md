@@ -16,6 +16,7 @@ I have audited  [Lido](https://lido.fi/) , [GMX](https://gmx.io/) , [Pump.fun](p
 
 |ID|Protocol  |Lang - ecosystem|Description|Provider|Findings|Report|  
 |:--|:--------|:------|:----------|:-------|:----:|:----:|
+|25| Ellipsis plasma AMM | Rust🦀 - Solana | sandwish resitant AMM | Accretion | 1 Critical , 2 Mediums , 4 Lows| [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Plasma_Accretion_Audit.pdf)|
 |24|Dare Protocol| Rust🦀 - Solana| Bonding curve |Solo|Soon|Soon|
 |23|Polymer Labs|Rust🦀 - Solana and Solidity | Cross-chain L2 state prover | Spearbit , Cantina | 4 Highs , 2 Mediums, 6 Lows|Soon| 
 |22|Reserve DTF|Rust🦀 - Solana|Vault indexing protocol||3 Highs, 3 Mediums, 5 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Reserve_SolanaDTF_Audit.pdf)|
