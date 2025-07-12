@@ -21,13 +21,13 @@ I have audited  [Lido](https://lido.fi/) , [GMX](https://gmx.io/) , [Pump.fun](p
 |23|Polymer Labs|Rust🦀 - Solana and Solidity | Cross-chain L2 state prover | Spearbit , Cantina | 4 Highs , 2 Mediums, 6 Lows|Soon| 
 |22|Reserve DTF|Rust🦀 - Solana|Vault indexing protocol||3 Highs, 3 Mediums, 5 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Reserve_SolanaDTF_Audit.pdf)|
 |21| BIO |Rust🦀 - Solana| Launchpad |Pashov Audit Group | 1 Medium , 2 Lows| [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Bio_final_report.pdf)| 
-|20|Pump |Rust🦀 - Solana|Token Sales|Pashov Audit Group|Soon|Soon|
+|20|Pump |Rust🦀 - Solana|Token Sales|Pashov Audit Group|NDA|NDA|
 |19|Perena|Rust🦀 - Solana|Stablecoin - staking program|Spearbit , Cantina|4 Criticals , 3 Highs, 4 Mediums , 3 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Perena_Audit_Final_report.pdf)|
 |18|Boop|Rust🦀 - Solana|LaunchPad using Bonding curve and Staking program |Solo|1 High , 1 Medium , 7 Lows  |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Boop_Audit_Final_Report.pdf)|
 |17| ORO |Rust🦀 - Solana |Liquid staking and Gold trading|Spearbit , Cantina |11 Criticals , 1 High , 5 Mediums, 3 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/cantina_oro_february2025.pdf)|
 |16| [GMX](https://gmxsol.io/) |Rust🦀 - Solana |   Perptual Market | Code4rena, Zenith|9 Highs, 23 Mediums, 24 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/GMX%20Solana%20Protocol%20-%20Zenith%20Audit%20Report.pdf) | 
 |15|Desci LaunchPad|Rust🦀 - Solana| LaunchPad| Pashov Audit Group|1 critical, 2 highs, 1 medium , 8 lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/DesciLaunchpad-security-review_2025-02-07.pdf)|
-|14|[Pump.fun](pump.fun) |Rust🦀 - Solana|DEX , Bonding Curve|Pashov Audit Group|1 Medium ,1 Low|Soon|
+|14|[Pump.fun](pump.fun) |Rust🦀 - Solana|DEX , Bonding Curve|Pashov Audit Group|1 Medium ,1 Low|NDA|
 |13| [SomethingCool]()|Rust🦀 - Solana|DEX , Bonding Curve|Solo |2 Mediums, 5 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/SomethingCool_security_Audit_report.pdf)|
 |12| [STIX](https://www.stix.co/)  |Rust🦀 - Solana|Escrow protocol for facilitating the OTC trading on Solana |Pashov Audit Group|3 Critical,4 High,2 Mediums,11 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/StixSwapSolana-security-review_2025-01-07.pdf)|
 |11| [bruv.fun](https://x.com/bruvfun)  |Rust🦀 - Solana |token bonding curve, allowing users to buy and sell tokens at dynamically adjusted prices.|Solo |4 Criticals , 3 Highs , 2 Mediums|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Bruv_Audit_Final.pdf)|
@@ -35,11 +35,11 @@ I have audited  [Lido](https://lido.fi/) , [GMX](https://gmx.io/) , [Pump.fun](p
 |9|[Synthetix](https://synthetix.io)|Rust🦀 - Solana| 12k NSLOC over six weeks; Synthetix is a decentralized finance (DeFi) protocol that serves as a liquidity layer for the creation of derivative markets. |Pashov Audit Group| 1 High , 4 Mediums , 11 Lows | [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Synthetix-security-review_2024-11-05.pdf) |  
 |8|[Adra-lrt](https://adrastea.fi/)|Rust🦀 - Solana |Liquidity restaking token program|Shieldify| 1 High, 1 Medium, 3 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Adrastea-Security-Review.pdf)|  
 |7|[Hydration](https://hydration.net)|Rust🦀 - Polkadot |ERC20 implementation|Pashov Audit Group|1 High, 3 Mediums, 5 Lows| [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Hydration-security-review-October.pdf)|  
-|6|[Pump.fun](pump.fun) |Rust🦀 - Solana | Bonding Curve |Pashov Audit Group|1 High, 1 Medium, 11 Lows | Soon |  
+|6|[Pump.fun](pump.fun) |Rust🦀 - Solana | Bonding Curve |Pashov Audit Group|1 High, 1 Medium, 11 Lows | NDA |  
 |5|[DUB Social](https://x.com/dubdotsocial)|Rust🦀 - Solana | Bonding Curve and merkle distributor used to collect funds before migration to AMM |Pashov Audit Group|3 Criticals, 4 Mediums, 13 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/DUB_Audit_frank_castle.pdf)|  
 |4|LzApp ONFT  | Rust🦀 - Solana| The project implements an Omnichain Non-Fungible Token (ONFT) on the Solana blockchain using LayerZero’s cross-chain messaging protocol|Shieldify| 1 Critical, 1 High, 3 Mediums, 3 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/LzAPP_ONFT_Security_Review.pdf)|  
 |3|[LayerZero](https://layerzero.network/)|Rust🦀 - Solana|Omnichain fungible token|Pashov Audit Group|1 Medium, 11 Lows |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/LayerZero-security-review-September.pdf)|  
-|2|[Pump.fun](pump.fun)|Rust🦀 - Solana|A constant product AMM program|Pashov Audit Group|1 High, 4 Mediums, 1 Low |Soon|  
+|2|[Pump.fun](pump.fun)|Rust🦀 - Solana|A constant product AMM program|Pashov Audit Group|1 High, 4 Mediums, 1 Low |NDA|  
 |1|[TAILWIND](https://www.tailwind.zone/)|Rust 🦀 - CosmWasm|Bounding Curve|Solo |2 Majors, 1 minor, 2 info |[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/TailWind-zoneReport.pdf)|  
 # Pashov audit Group Audits
 [Pashov audit Group](https://www.pashov.net)
