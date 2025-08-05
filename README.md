@@ -16,6 +16,8 @@ I have audited  [Lido](https://lido.fi/) , [GMX](https://gmx.io/) , [Pump.fun](p
 
 |ID|Protocol  |Lang - ecosystem|Description|Provider|Findings|Report|  
 |:--|:--------|:------|:----------|:-------|:----:|:----:|
+|29| Pump |Rust🦀 - Solana|NDA |Pashov Audit Group|NDA|NDA|
+|28| Pump |Rust🦀 - Solana|Token Incentive in Pump-swap and Pump-amm |Pashov Audit Group|NDA|NDA|
 |27| Layer N |Rust🦀 - Solana| solana Bridge program for settlement and bridging| Cantina , Spearbit| 1 Critical, 1 Medium , 4 Lows|[upcoming]()|
 |26|BTRFI |Rust🦀 - Solana|Staking , Voting and Vault programs|Pashov Audit Group|5 Criticals , 2 Highs , 5 Mediums, 13 Lows | [upcoming]()|
 |25| Ellipsis plasma AMM | Rust🦀 - Solana | sandwish resitant AMM | Accretion | 1 Critical , 2 Mediums , 4 Lows| [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Plasma_Accretion_Audit.pdf)|
