@@ -16,6 +16,8 @@ I have audited  [Lido](https://lido.fi/) , [GMX](https://gmx.io/) , [Pump.fun](p
 
 |ID|Protocol  |Lang - ecosystem|Description|Provider|Findings|Report|  
 |:--|:--------|:------|:----------|:-------|:----:|:----:|
+|31|Weed Addicted|Rust🦀 - Solana| farming ecosystem where players cultivate digital crops, earn WEED tokens, and build referral networks. The game combines DeFi mechanics with engaging gameplay.|Pashov Audit Group|3 Criticals|[upcoming]()|
+|30| BitCorn <> LayerZero integration |Rust🦀 - Solana| Launching OFT token| Spearbit - Cantina |||
 |29| Pump |Rust🦀 - Solana|NDA |Pashov Audit Group|NDA|NDA|
 |28| Pump |Rust🦀 - Solana|Token Incentive in Pump-swap and Pump-amm |Pashov Audit Group|NDA|NDA|
 |27| Layer N |Rust🦀 - Solana| solana Bridge program for settlement and bridging| Cantina , Spearbit| 1 Critical, 1 Medium , 4 Lows|[upcoming]()|
