@@ -16,13 +16,14 @@ I have audited  [Lido](https://lido.fi/) , [GMX](https://gmx.io/) , [Pump.fun](p
 
 |ID|Protocol  |Lang - ecosystem|Description|Provider|Findings|Report|  
 |:--|:--------|:------|:----------|:-------|:----:|:----:|
-|32|Meteora|Rust🦀 - Solana | Position NFT Distribution| Pashov Audit Group| 1 Medium , 5 Lows|[📄]()|
+|33| Coalesce Finanace|Rust🦀 - Solana |a fork of Solend Protocol |Pashov Audit Group| 3 Highs , 14 Mediums , 15 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/CoalesceFinance-security-review_2025-10-13.pdf)|
+|32|Meteora|Rust🦀 - Solana | Position NFT Distribution| Pashov Audit Group| 1 Medium , 5 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Meteora-security-review_2025-09-01.pdf)|
 |31|Weed Addicted|Rust🦀 - Solana| farming ecosystem where players cultivate digital crops, earn WEED tokens, and build referral networks. The game combines DeFi mechanics with engaging gameplay.|Pashov Audit Group|3 Criticals|[upcoming]()|
 |30| BitCorn <> LayerZero integration |Rust🦀 - Solana| Launching OFT token| Spearbit - Cantina |||
 |29| Pump |Rust🦀 - Solana|NDA |Pashov Audit Group|NDA|NDA|
 |28| Pump |Rust🦀 - Solana|Token Incentive in Pump-swap and Pump-amm |Pashov Audit Group|NDA|NDA|
-|27| Layer N |Rust🦀 - Solana| solana Bridge program for settlement and bridging| Cantina , Spearbit| 1 Critical, 1 Medium , 4 Lows|[upcoming]()|
-|26|BTRFI |Rust🦀 - Solana|Staking , Voting and Vault programs|Pashov Audit Group|5 Criticals , 2 Highs , 5 Mediums, 13 Lows | [upcoming]()|
+|27| Layer N |Rust🦀 - Solana| solana Bridge program for settlement and bridging| Cantina , Spearbit| 1 Critical, 1 Medium , 4 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Layer_N_report.pdf)|
+|26|BTRFI |Rust🦀 - Solana|Staking , Voting and Vault programs|Pashov Audit Group|5 Criticals , 2 Highs , 5 Mediums, 13 Lows | [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/BTR-security-review_2025-06-29.pdf)|
 |25| Ellipsis plasma AMM | Rust🦀 - Solana | sandwish resitant AMM | Accretion | 1 Critical , 2 Mediums , 4 Lows| [📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Plasma_Accretion_Audit.pdf)|
 |24|Dare Protocol| Rust🦀 - Solana| Bonding curve |Solo|Soon|Soon|
 |23|Polymer Labs|Rust🦀 - Solana and Solidity | Cross-chain L2 state prover | Spearbit , Cantina | 4 Highs , 2 Mediums, 6 Lows|Soon| 
