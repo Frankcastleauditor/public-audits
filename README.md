@@ -16,6 +16,7 @@ I have audited  [Lido](https://lido.fi/) , [GMX](https://gmx.io/) , [Pump.fun](p
 
 |ID|Protocol  |Lang - ecosystem|Description|Provider|Findings|Report|  
 |:--|:--------|:------|:----------|:-------|:----:|:----:|
+|34| pAMM by Quantum Labs| Rust🦀 - Solana "pinocchio" |  Solana-based automated market maker written in Rust, enabling token swaps using multi-point, curve-based pricing | Solo| 1 Critical, 1 High, 2 Mediums , 5 Lows| [NDA](https://x.com/0xcastle_chain/status/2001083316213031410) |
 |33| Coalesce Finanace|Rust🦀 - Solana |a fork of Solend Protocol |Pashov Audit Group| 3 Highs , 14 Mediums , 15 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/CoalesceFinance-security-review_2025-10-13.pdf)|
 |32|Meteora|Rust🦀 - Solana | Position NFT Distribution| Pashov Audit Group| 1 Medium , 5 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Meteora-security-review_2025-09-01.pdf)|
 |31|Weed Addicted|Rust🦀 - Solana| farming ecosystem where players cultivate digital crops, earn WEED tokens, and build referral networks. The game combines DeFi mechanics with engaging gameplay.|Pashov Audit Group|3 Criticals|[upcoming]()|
