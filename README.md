@@ -88,4 +88,4 @@ I have audited  [Lido](https://lido.fi/) , [GMX](https://gmx.io/) , [Pump.fun](p
 
 # Write-ups
 - [MintClose extension risk](https://x.com/0xcastle_chain/status/1850656223403593986)
-
+- [Solana CPI scope mistmatching leading to DOS](https://x.com/0xcastle_chain/status/2025957271230894356)
