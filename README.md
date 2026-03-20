@@ -16,6 +16,7 @@ I have audited  [Lido](https://lido.fi/) , [GMX](https://gmx.io/) , [Pump.fun](p
 
 |ID|Protocol  |Lang - ecosystem|Description|Provider|Findings|Report|  
 |:--|:--------|:------|:----------|:-------|:----:|:----:|
+|36| [GoldSand StableCoin](https://goldsand.fi/)|Rust🦀 - Solana|Goldsand is a stablecoin protocol with a vault and staking vault on Solana.| Solo|1 High, 9 Mediums, 14 Lows| NDA |
 |35| [cNGN Stablecoin](https://cngn.co/) | Rust🦀 - Solana| stablecoin, Naira-backed digital asset | Solo| 2 criticals , 2 Highs , 2 Mediums , 13 Lows|NDA|
 |34| pAMM by Quantum Labs| Rust🦀 - Solana "pinocchio" |  Solana-based automated market maker written in Rust, enabling token swaps using multi-point, curve-based pricing | Solo| 1 Critical, 1 High, 2 Mediums , 5 Lows| [NDA](https://x.com/0xcastle_chain/status/2001083316213031410) |
 |33| Coalesce Finanace|Rust🦀 - Solana |a fork of Solend Protocol |Pashov Audit Group| 3 Highs , 14 Mediums , 15 Lows|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/CoalesceFinance-security-review_2025-10-13.pdf)|
