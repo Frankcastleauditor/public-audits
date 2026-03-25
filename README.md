@@ -58,6 +58,9 @@ I have audited  [Lido](https://lido.fi/) , [GMX](https://gmx.io/) , [Pump.fun](p
 1. cNGN stablecoin : https://x.com/cngn_co/status/2031730643973870027
 ![cNGN_announcment](https://github.com/user-attachments/assets/4cd31c8e-ab9c-406f-bac2-dad470792a80)
 
+2. Wick| Lantern Validator: https://x.com/LanternStake/status/2036866722037457224
+  ![Wick Announcment](https://github.com/user-attachments/assets/740283d8-6c47-45b3-8f16-41a26fe503ae)
+
 
 # Pashov audit Group Audits
 [Pashov audit Group](https://www.pashov.net)
