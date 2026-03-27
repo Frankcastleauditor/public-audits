@@ -60,6 +60,10 @@ I have audited  [Lido](https://lido.fi/) , [GMX](https://gmx.io/) , [Pump.fun](p
 
 2. Wick| Lantern Validator: https://x.com/LanternStake/status/2036866722037457224
   ![Wick Announcment](https://github.com/user-attachments/assets/740283d8-6c47-45b3-8f16-41a26fe503ae)
+3. Boop dot fun Audit: https://x.com/0xcastle_chain/status/1919766342455972342
+<img width="736" height="753" alt="Screenshot from 2026-03-27 22-39-29" src="https://github.com/user-attachments/assets/c0557553-33cb-4423-9180-3a34a3c95d2d" />
+
+
 
 
 # Pashov audit Group Audits
