@@ -16,6 +16,7 @@ I have audited  [Lido](https://lido.fi/) , [GMX](https://gmx.io/) , [Pump.fun](p
 
 |ID|Protocol  |Lang - ecosystem|Description|Provider|Findings|Report|  
 |:--|:--------|:------|:----------|:-------|:----:|:----:|
+|38|[Wick-2 by Lantern Validator](https://www.lantern.one/wick)|Rust🦀 - Solana| Wick is a yield conversion protocol on Solana.|Solo|5 Mediums , 1 Low|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/wick-v2_final_report.pdf)|
 |37|[Wick by Lantern Validator](https://www.lantern.one/wick)|Rust🦀 - Solana| Wick is a yield conversion protocol on Solana. Users deposit Liquid Staking Tokens(LST) into per-user position vaults. An off-chain cranker operator periodically harvests accrued staking yield from each position,executes an AMM swap to convert yield into the user's target token, and deposits the proceeds into the target vault.|Solo|4 Mediums, 2 Lows, 8 Infos|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Wick_Final_report.pdf)|
 |36| [GoldSand StableCoin](https://goldsand.fi/)|Rust🦀 - Solana|Goldsand is a stablecoin protocol with a vault and staking vault on Solana.| Solo|1 High, 9 Mediums, 14 Lows| NDA |
 |35| [cNGN Stablecoin](https://cngn.co/) | Rust🦀 - Solana| stablecoin, Naira-backed digital asset | Solo| 2 criticals , 2 Highs , 2 Mediums , 13 Lows|NDA|
