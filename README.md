@@ -1,7 +1,7 @@
 # About Frank Castle 
 **Frank Castle** is a professional smart contract security researcher with focused expertise in auditing Rust-based contracts and decentralized infrastructure across leading blockchain ecosystems, including **Solana** , **Polkadot** , and **Cosmos (CosmWasm)**.🦀
 
-I have audited  [Lido](https://lido.fi/) , [GMX](https://gmx.io/) , [Pump.fun](pump.fun) , [LayerZero](https://layerzero.network/) , [Synthetix](https://synthetix.io/) , [Hydration](https://hydration.net/) , [Perena](https://x.com/Perena__) , [ORO](https://x.com/orogoldapp) , [DUB Social](https://x.com/dubdotsocial)  and several multi-million protocols.
+I have audited [Anchor Framework](https://github.com/otter-sec/anchor), [Lido](https://lido.fi/) , [GMX](https://gmx.io/) , [Pump.fun](pump.fun) , [LayerZero](https://layerzero.network/) , [Synthetix](https://synthetix.io/) , [Hydration](https://hydration.net/) , [Perena](https://x.com/Perena__) , [ORO](https://x.com/orogoldapp) , [DUB Social](https://x.com/dubdotsocial)  and several multi-million protocols.
 - Twitter: [@castle_chain](https://x.com/0xcastle_chain)
 - Discord: [@castle_chain](https://discordapp.com/users/1119172287330004992)
 - Telegram : [castle_chain](https://t.me/castle_chain)
@@ -16,6 +16,7 @@ I have audited  [Lido](https://lido.fi/) , [GMX](https://gmx.io/) , [Pump.fun](p
 
 |ID|Protocol  |Lang - ecosystem|Description|Provider|Findings|Report|  
 |:--|:--------|:------|:----------|:-------|:----:|:----:|
+|39|[Anchor V2](https://github.com/otter-sec/anchor/tree/master)|Rust🦀| anchor-lang-v2 is the alpha runtime for this version of Anchor. It is pinocchio-based, no_std, zero-copy by default for fixed-size accounts, and organized around traits so account wrappers, constraints, CPI helpers, and IDL metadata can be extended from downstream crates.| AdevarLabs | 4 Mediums, 5 Lows| [📄]()| 
 |38|[Wick-2 by Lantern Validator](https://www.lantern.one/wick)|Rust🦀 - Solana| Wick is a yield conversion protocol on Solana.|Solo|5 Mediums , 1 Low|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/wick-v2_final_report.pdf)|
 |37|[Wick by Lantern Validator](https://www.lantern.one/wick)|Rust🦀 - Solana| Wick is a yield conversion protocol on Solana. Users deposit Liquid Staking Tokens(LST) into per-user position vaults. An off-chain cranker operator periodically harvests accrued staking yield from each position,executes an AMM swap to convert yield into the user's target token, and deposits the proceeds into the target vault.|Solo|4 Mediums, 2 Lows, 8 Infos|[📄](https://github.com/Frankcastleauditor/public-audits/blob/main/reports/Wick_Final_report.pdf)|
 |36| [GoldSand StableCoin](https://goldsand.fi/)|Rust🦀 - Solana|Goldsand is a stablecoin protocol with a vault and staking vault on Solana.| Solo|1 High, 9 Mediums, 14 Lows| NDA |
